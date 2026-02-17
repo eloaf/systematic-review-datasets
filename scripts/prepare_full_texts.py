@@ -7,7 +7,8 @@ import requests
 from grobid_client.grobid_client import GrobidClient
 from tqdm import tqdm
 
-client = GrobidClient(config_path="../data/raw/grobid_config.json")
+# client = GrobidClient(config_path="../data/raw/grobid_config.json")
+client = GrobidClient(config_path="../config/grobid_config.json")
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
