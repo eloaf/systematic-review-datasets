@@ -1,0 +1,132 @@
+Outcome or subgroup title,No. of studies,No. of participants,Statistical method,Effect size,comparison_name,comparison_id,effect_size,lower_ci,upper_ci,outcome_id,subgroup_id,outcome_name,subgroup_name
+1.1 Diarrhoea: all ages Show forest plot,15,,"Risk Ratio (IV, Random, 95% CI)","0.79 [0.66, 0.94]",Providing access to any sanitation facility intervention versus control,1,0.79,0.66,0.94,1,1,,Diarrhoea: all ages Show forest plot
+1.1.1 Cluster‐RCTs,7,,"Risk Ratio (IV, Random, 95% CI)","0.89 [0.73, 1.08]",Providing access to any sanitation facility intervention versus control,1,0.89,0.73,1.08,1,1,,Cluster‐RCTs
+1.1.2 NRCTs,8,,"Risk Ratio (IV, Random, 95% CI)","0.72 [0.53, 0.97]",Providing access to any sanitation facility intervention versus control,1,0.72,0.53,0.97,1,1,,NRCTs
+1.2 Diarrhoea: children < 5 years Show forest plot,11,,"Risk Ratio (IV, Random, 95% CI)","0.83 [0.68, 1.02]",Providing access to any sanitation facility intervention versus control,1,0.83,0.68,1.02,1,2,,Diarrhoea: children < 5 years Show forest plot
+1.2.1 Cluster‐RCTs,4,,"Risk Ratio (IV, Random, 95% CI)","0.98 [0.83, 1.16]",Providing access to any sanitation facility intervention versus control,1,0.98,0.83,1.16,1,2,,Cluster‐RCTs
+1.2.2 NRCTs,7,,"Risk Ratio (IV, Random, 95% CI)","0.76 [0.55, 1.05]",Providing access to any sanitation facility intervention versus control,1,0.76,0.55,1.05,1,2,,NRCTs
+1.3 Dysentery (bloody diarrhoea): children < 5 years (same for all ages) Show forest plot,2,,"Risk Ratio (IV, Random, 95% CI)","0.74 [0.47, 1.17]",Providing access to any sanitation facility intervention versus control,1,0.74,0.47,1.17,1,3,,Dysentery (bloody diarrhoea): children < 5 years (same for all ages) Show forest plot
+1.3.1 Cluster‐RCTs,1,,"Risk Ratio (IV, Random, 95% CI)","0.96 [0.11, 8.14]",Providing access to any sanitation facility intervention versus control,1,0.96,0.11,8.14,1,3,,Cluster‐RCTs
+1.3.2 NRCTs,1,,"Risk Ratio (IV, Random, 95% CI)","0.73 [0.46, 1.17]",Providing access to any sanitation facility intervention versus control,1,0.73,0.46,1.17,1,3,,NRCTs
+1.4 Persistent diarrhoea: children < 5 years (same for all ages) Show forest plot,1,,"Risk Ratio (IV, Random, 95% CI)",Totals not selected,Providing access to any sanitation facility intervention versus control,1,,,,1,4,,Persistent diarrhoea: children < 5 years (same for all ages) Show forest plot
+1.4.1 NRCTs,1,,"Risk Ratio (IV, Random, 95% CI)",Totals not selected,Providing access to any sanitation facility intervention versus control,1,,,,1,4,,NRCTs
+1.5 All‐cause mortality: all ages Show forest plot,3,,"Risk Ratio (IV, Random, 95% CI)","0.93 [0.69, 1.24]",Providing access to any sanitation facility intervention versus control,1,0.93,0.69,1.24,1,5,,All‐cause mortality: all ages Show forest plot
+1.5.1 Cluster‐RCTs,2,,"Risk Ratio (IV, Random, 95% CI)","1.05 [0.88, 1.25]",Providing access to any sanitation facility intervention versus control,1,1.05,0.88,1.25,1,5,,Cluster‐RCTs
+1.5.2 NRCTs,1,,"Risk Ratio (IV, Random, 95% CI)","0.56 [0.32, 0.99]",Providing access to any sanitation facility intervention versus control,1,0.56,0.32,0.99,1,5,,NRCTs
+1.6 All‐cause mortality: children < 5 years Show forest plot,3,,"Risk Ratio (IV, Random, 95% CI)","0.82 [0.59, 1.15]",Providing access to any sanitation facility intervention versus control,1,0.82,0.59,1.15,1,6,,All‐cause mortality: children < 5 years Show forest plot
+1.6.1 Cluster‐RCTs,2,,"Risk Ratio (IV, Random, 95% CI)","0.95 [0.72, 1.26]",Providing access to any sanitation facility intervention versus control,1,0.95,0.72,1.26,1,6,,Cluster‐RCTs
+1.6.2 NRCTs,1,,"Risk Ratio (IV, Random, 95% CI)","0.56 [0.32, 0.99]",Providing access to any sanitation facility intervention versus control,1,0.56,0.32,0.99,1,6,,NRCTs
+1.7 Diarrhoea‐related mortality: children < 5 years (same for all ages) Show forest plot,1,,"Risk Ratio (IV, Random, 95% CI)",Totals not selected,Providing access to any sanitation facility intervention versus control,1,,,,1,7,,Diarrhoea‐related mortality: children < 5 years (same for all ages) Show forest plot
+1.7.1 NRCTs,1,,"Risk Ratio (IV, Random, 95% CI)",Totals not selected,Providing access to any sanitation facility intervention versus control,1,,,,1,7,,NRCTs
+2.1 Diarrhoea: all ages Show forest plot,26,,"Risk Ratio (IV, Random, 95% CI)","0.65 [0.55, 0.78]",Sanitation facility improvement intervention versus control,2,0.65,0.55,0.78,2,1,,Diarrhoea: all ages Show forest plot
+2.1.1 Cluster‐RCTs,3,,"Risk Ratio (IV, Random, 95% CI)","0.85 [0.69, 1.06]",Sanitation facility improvement intervention versus control,2,0.85,0.69,1.06,2,1,,Cluster‐RCTs
+2.1.2 NRCTs,23,,"Risk Ratio (IV, Random, 95% CI)","0.61 [0.50, 0.74]",Sanitation facility improvement intervention versus control,2,0.61,0.5,0.74,2,1,,NRCTs
+2.2 Diarrhoea: children < 5 years Show forest plot,12,,"Risk Ratio (IV, Random, 95% CI)","0.70 [0.54, 0.91]",Sanitation facility improvement intervention versus control,2,0.7,0.54,0.91,2,2,,Diarrhoea: children < 5 years Show forest plot
+2.2.1 Cluster‐RCTs,3,,"Risk Ratio (IV, Random, 95% CI)","0.85 [0.69, 1.06]",Sanitation facility improvement intervention versus control,2,0.85,0.69,1.06,2,2,,Cluster‐RCTs
+2.2.2 NRCTs,9,,"Risk Ratio (IV, Random, 95% CI)","0.64 [0.43, 0.96]",Sanitation facility improvement intervention versus control,2,0.64,0.43,0.96,2,2,,NRCTs
+2.3 Dysentery (bloody stool): all ages Show forest plot,1,,"Risk Ratio (IV, Random, 95% CI)",Totals not selected,Sanitation facility improvement intervention versus control,2,,,,2,3,,Dysentery (bloody stool): all ages Show forest plot
+2.3.1 NRCTs,1,,"Risk Ratio (IV, Random, 95% CI)",Totals not selected,Sanitation facility improvement intervention versus control,2,,,,2,3,,NRCTs
+2.4 Persistent Diarrhoea ‐ Children <5 years Show forest plot,1,,"Risk Ratio (IV, Random, 95% CI)",Totals not selected,Sanitation facility improvement intervention versus control,2,,,,2,4,,Persistent Diarrhoea ‐ Children <5 years Show forest plot
+2.4.1 NRCTs,1,,"Risk Ratio (IV, Random, 95% CI)",Totals not selected,Sanitation facility improvement intervention versus control,2,,,,2,4,,NRCTs
+2.5 Clinic visits for diarrhoea: all ages Show forest plot,2,,"Risk Ratio (IV, Random, 95% CI)","0.86 [0.44, 1.67]",Sanitation facility improvement intervention versus control,2,0.86,0.44,1.67,2,5,,Clinic visits for diarrhoea: all ages Show forest plot
+2.5.1 NRCTs,2,,"Risk Ratio (IV, Random, 95% CI)","0.86 [0.44, 1.67]",Sanitation facility improvement intervention versus control,2,0.86,0.44,1.67,2,5,,NRCTs
+2.6 Clinic visits for diarrhoea: children < 5 years Show forest plot,1,,"Risk Ratio (IV, Random, 95% CI)",Totals not selected,Sanitation facility improvement intervention versus control,2,,,,2,6,,Clinic visits for diarrhoea: children < 5 years Show forest plot
+2.6.1 NRCTs,1,,"Risk Ratio (IV, Random, 95% CI)",Totals not selected,Sanitation facility improvement intervention versus control,2,,,,2,6,,NRCTs
+2.7 All‐cause mortality: children < 5 years (same for all ages) Show forest plot,3,,"Risk Ratio (IV, Random, 95% CI)","1.00 [0.75, 1.34]",Sanitation facility improvement intervention versus control,2,1.0,0.75,1.34,2,7,,All‐cause mortality: children < 5 years (same for all ages) Show forest plot
+2.7.1 Cluster‐RCTs,2,,"Risk Ratio (IV, Random, 95% CI)","0.99 [0.74, 1.33]",Sanitation facility improvement intervention versus control,2,0.99,0.74,1.33,2,7,,Cluster‐RCTs
+2.7.2 NRCTs,1,,"Risk Ratio (IV, Random, 95% CI)","1.49 [0.25, 8.88]",Sanitation facility improvement intervention versus control,2,1.49,0.25,8.88,2,7,,NRCTs
+3.1 Diarrhoea: children < 5 years (same for all ages) Show forest plot,9,,"Risk Ratio (IV, Random, 95% CI)","0.85 [0.73, 1.01]",Behaviour change messaging only intervention versus control,3,0.85,0.73,1.01,3,1,,Diarrhoea: children < 5 years (same for all ages) Show forest plot
+3.1.1 Cluster‐RCTs,7,,"Risk Ratio (IV, Random, 95% CI)","0.82 [0.69, 0.98]",Behaviour change messaging only intervention versus control,3,0.82,0.69,0.98,3,1,,Cluster‐RCTs
+3.1.2 NRCTs,2,,"Risk Ratio (IV, Random, 95% CI)","1.02 [0.91, 1.14]",Behaviour change messaging only intervention versus control,3,1.02,0.91,1.14,3,1,,NRCTs
+3.2 Dysentery (bloody stool): children < 5 years (same for all ages) Show forest plot,2,,"Risk Ratio (IV, Random, 95% CI)","0.67 [0.35, 1.28]",Behaviour change messaging only intervention versus control,3,0.67,0.35,1.28,3,2,,Dysentery (bloody stool): children < 5 years (same for all ages) Show forest plot
+3.2.1 Cluster‐RCTs,2,,"Risk Ratio (IV, Random, 95% CI)","0.67 [0.35, 1.28]",Behaviour change messaging only intervention versus control,3,0.67,0.35,1.28,3,2,,Cluster‐RCTs
+3.3 All‐cause mortality: all ages Show forest plot,1,,"Risk Ratio (IV, Random, 95% CI)",Totals not selected,Behaviour change messaging only intervention versus control,3,,,,3,3,,All‐cause mortality: all ages Show forest plot
+3.3.1 Cluster‐RCTs,1,,"Risk Ratio (IV, Random, 95% CI)",Totals not selected,Behaviour change messaging only intervention versus control,3,,,,3,3,,Cluster‐RCTs
+3.4 All‐cause mortality: children < 5 Show forest plot,1,,"Risk Ratio (IV, Random, 95% CI)",Totals not selected,Behaviour change messaging only intervention versus control,3,,,,3,4,,All‐cause mortality: children < 5 Show forest plot
+3.4.1 Cluster‐RCTs,1,,"Risk Ratio (IV, Random, 95% CI)",Totals not selected,Behaviour change messaging only intervention versus control,3,,,,3,4,,Cluster‐RCTs
+3.5 Diarrhoea‐related mortality: all ages Show forest plot,1,,"Risk Ratio (IV, Random, 95% CI)",Totals not selected,Behaviour change messaging only intervention versus control,3,,,,3,5,,Diarrhoea‐related mortality: all ages Show forest plot
+3.5.1 Cluster‐RCTs,1,,"Risk Ratio (IV, Random, 95% CI)",Totals not selected,Behaviour change messaging only intervention versus control,3,,,,3,5,,Cluster‐RCTs
+3.6 Diarrhoea‐related mortality: children < 5 Show forest plot,1,,"Risk Ratio (IV, Random, 95% CI)",Totals not selected,Behaviour change messaging only intervention versus control,3,,,,3,6,,Diarrhoea‐related mortality: children < 5 Show forest plot
+3.6.1 Cluster‐RCTs,1,,"Risk Ratio (IV, Random, 95% CI)",Totals not selected,Behaviour change messaging only intervention versus control,3,,,,3,6,,Cluster‐RCTs
+4.1 Diarrhoea: all ages Show forest plot,50,,"Risk Ratio (IV, Random, 95% CI)","0.74 [0.67, 0.82]",Any sanitation intervention,4,0.74,0.67,0.82,4,1,,Diarrhoea: all ages Show forest plot
+4.1.1 Cluster‐RCTs,17,,"Risk Ratio (IV, Random, 95% CI)","0.85 [0.76, 0.95]",Any sanitation intervention,4,0.85,0.76,0.95,4,1,,Cluster‐RCTs
+4.1.2 NRCTs,33,,"Risk Ratio (IV, Random, 95% CI)","0.67 [0.57, 0.78]",Any sanitation intervention,4,0.67,0.57,0.78,4,1,,NRCTs
+4.2 Diarrhoea: children < 5 years Show forest plot,32,,"Risk Ratio (IV, Random, 95% CI)","0.80 [0.71, 0.89]",Any sanitation intervention,4,0.8,0.71,0.89,4,2,,Diarrhoea: children < 5 years Show forest plot
+4.2.1 Cluster‐RCTs,14,,"Risk Ratio (IV, Random, 95% CI)","0.87 [0.77, 0.97]",Any sanitation intervention,4,0.87,0.77,0.97,4,2,,Cluster‐RCTs
+4.2.2 NRCTs,18,,"Risk Ratio (IV, Random, 95% CI)","0.72 [0.58, 0.91]",Any sanitation intervention,4,0.72,0.58,0.91,4,2,,NRCTs
+4.3 Dysentery (bloody stool): all ages Show forest plot,5,,"Risk Ratio (IV, Random, 95% CI)","0.74 [0.54, 1.00]",Any sanitation intervention,4,0.74,0.54,1.0,4,3,,Dysentery (bloody stool): all ages Show forest plot
+4.3.1 Cluster‐RCTs,3,,"Risk Ratio (IV, Random, 95% CI)","0.74 [0.49, 1.11]",Any sanitation intervention,4,0.74,0.49,1.11,4,3,,Cluster‐RCTs
+4.3.2 NRCTs,2,,"Risk Ratio (IV, Random, 95% CI)","0.74 [0.47, 1.17]",Any sanitation intervention,4,0.74,0.47,1.17,4,3,,NRCTs
+4.4 Dysentery (bloody diarrhoea): children < 5 years Show forest plot,4,,"Risk Ratio (IV, Random, 95% CI)","0.73 [0.54, 1.00]",Any sanitation intervention,4,0.73,0.54,1.0,4,4,,Dysentery (bloody diarrhoea): children < 5 years Show forest plot
+4.4.1 Cluster‐RCTs,3,,"Risk Ratio (IV, Random, 95% CI)","0.74 [0.49, 1.11]",Any sanitation intervention,4,0.74,0.49,1.11,4,4,,Cluster‐RCTs
+4.4.2 NRCTs,1,,"Risk Ratio (IV, Random, 95% CI)","0.73 [0.46, 1.17]",Any sanitation intervention,4,0.73,0.46,1.17,4,4,,NRCTs
+4.5 Persistent diarrhoea: children < 5 years (same for all ages) Show forest plot,2,,"Risk Ratio (IV, Random, 95% CI)","0.57 [0.43, 0.75]",Any sanitation intervention,4,0.57,0.43,0.75,4,5,,Persistent diarrhoea: children < 5 years (same for all ages) Show forest plot
+4.5.1 NRCTs,2,,"Risk Ratio (IV, Random, 95% CI)","0.57 [0.43, 0.75]",Any sanitation intervention,4,0.57,0.43,0.75,4,5,,NRCTs
+4.6 Clinic visits for diarrhoea: all ages Show forest plot,2,,"Risk Ratio (IV, Random, 95% CI)","0.86 [0.44, 1.67]",Any sanitation intervention,4,0.86,0.44,1.67,4,6,,Clinic visits for diarrhoea: all ages Show forest plot
+4.6.1 NRCTs,2,,"Risk Ratio (IV, Random, 95% CI)","0.86 [0.44, 1.67]",Any sanitation intervention,4,0.86,0.44,1.67,4,6,,NRCTs
+4.7 Clinic visits for diarrhoea: children < 5 years Show forest plot,1,,"Risk Ratio (IV, Random, 95% CI)",Totals not selected,Any sanitation intervention,4,,,,4,7,,Clinic visits for diarrhoea: children < 5 years Show forest plot
+4.7.1 NRCTs,1,,"Risk Ratio (IV, Random, 95% CI)",Totals not selected,Any sanitation intervention,4,,,,4,7,,NRCTs
+4.8 All‐cause mortality: all ages Show forest plot,7,,"Risk Ratio (IV, Random, 95% CI)","0.99 [0.89, 1.09]",Any sanitation intervention,4,0.99,0.89,1.09,4,8,,All‐cause mortality: all ages Show forest plot
+4.8.1 Cluster‐RCTs,5,,"Risk Ratio (IV, Random, 95% CI)","1.00 [0.90, 1.11]",Any sanitation intervention,4,1.0,0.9,1.11,4,8,,Cluster‐RCTs
+4.8.2 NRCTs,2,,"Risk Ratio (IV, Random, 95% CI)","0.62 [0.35, 1.13]",Any sanitation intervention,4,0.62,0.35,1.13,4,8,,NRCTs
+4.9 All‐cause mortality ‐ Children < 5 years Show forest plot,7,,"Risk Ratio (IV, Random, 95% CI)","0.93 [0.79, 1.09]",Any sanitation intervention,4,0.93,0.79,1.09,4,9,,All‐cause mortality ‐ Children < 5 years Show forest plot
+4.9.1 Cluster‐RCTs,5,,"Risk Ratio (IV, Random, 95% CI)","0.96 [0.82, 1.14]",Any sanitation intervention,4,0.96,0.82,1.14,4,9,,Cluster‐RCTs
+4.9.2 NRCTs,2,,"Risk Ratio (IV, Random, 95% CI)","0.62 [0.35, 1.13]",Any sanitation intervention,4,0.62,0.35,1.13,4,9,,NRCTs
+4.10 Diarrhoea‐related mortality: all ages Show forest plot,2,,"Risk Ratio (IV, Random, 95% CI)","0.30 [0.07, 1.24]",Any sanitation intervention,4,0.3,0.07,1.24,4,10,,Diarrhoea‐related mortality: all ages Show forest plot
+4.10.1 Cluster‐RCTs,1,,"Risk Ratio (IV, Random, 95% CI)","0.46 [0.26, 0.83]",Any sanitation intervention,4,0.46,0.26,0.83,4,10,,Cluster‐RCTs
+4.10.2 NRCTs,1,,"Risk Ratio (IV, Random, 95% CI)","0.09 [0.01, 0.88]",Any sanitation intervention,4,0.09,0.01,0.88,4,10,,NRCTs
+4.11 Diarrhoea‐related mortality: children < 5 Show forest plot,2,,"Risk Ratio (IV, Random, 95% CI)","0.30 [0.07, 1.29]",Any sanitation intervention,4,0.3,0.07,1.29,4,11,,Diarrhoea‐related mortality: children < 5 Show forest plot
+4.11.1 Cluster‐RCTs,1,,"Risk Ratio (IV, Random, 95% CI)","0.47 [0.23, 0.98]",Any sanitation intervention,4,0.47,0.23,0.98,4,11,,Cluster‐RCTs
+4.11.2 NRCTs,1,,"Risk Ratio (IV, Random, 95% CI)","0.09 [0.01, 0.88]",Any sanitation intervention,4,0.09,0.01,0.88,4,11,,NRCTs
+5.1 Sanitation only: diarrhoea ‐ all ages Show forest plot,23,,"Risk Ratio (IV, Random, 95% CI)","0.78 [0.69, 0.89]",Sub‐analysis: Sanitation only versus with other WASH interventions,5,0.78,0.69,0.89,5,1,,Sanitation only: diarrhoea ‐ all ages Show forest plot
+5.1.1 Cluster‐RCTs,10,,"Risk Ratio (IV, Random, 95% CI)","0.89 [0.79, 0.99]",Sub‐analysis: Sanitation only versus with other WASH interventions,5,0.89,0.79,0.99,5,1,,Cluster‐RCTs
+5.1.2 NRCTs,13,,"Risk Ratio (IV, Random, 95% CI)","0.65 [0.49, 0.85]",Sub‐analysis: Sanitation only versus with other WASH interventions,5,0.65,0.49,0.85,5,1,,NRCTs
+5.2 Sanitation only: diarrhoea: children < 5 years Show forest plot,15,,"Risk Ratio (IV, Random, 95% CI)","0.88 [0.79, 0.98]",Sub‐analysis: Sanitation only versus with other WASH interventions,5,0.88,0.79,0.98,5,2,,Sanitation only: diarrhoea: children < 5 years Show forest plot
+5.2.1 Cluster‐RCTs,10,,"Risk Ratio (IV, Random, 95% CI)","0.88 [0.79, 0.98]",Sub‐analysis: Sanitation only versus with other WASH interventions,5,0.88,0.79,0.98,5,2,,Cluster‐RCTs
+5.2.2 NRCTs,5,,"Risk Ratio (IV, Random, 95% CI)","0.80 [0.57, 1.14]",Sub‐analysis: Sanitation only versus with other WASH interventions,5,0.8,0.57,1.14,5,2,,NRCTs
+5.3 With other WASH interventions: diarrhoea ‐ all ages Show forest plot,33,,"Risk Ratio (IV, Random, 95% CI)","0.74 [0.65, 0.83]",Sub‐analysis: Sanitation only versus with other WASH interventions,5,0.74,0.65,0.83,5,3,,With other WASH interventions: diarrhoea ‐ all ages Show forest plot
+5.3.1 Cluster‐RCTs,10,,"Risk Ratio (IV, Random, 95% CI)","0.84 [0.72, 0.97]",Sub‐analysis: Sanitation only versus with other WASH interventions,5,0.84,0.72,0.97,5,3,,Cluster‐RCTs
+5.3.2 NRCTs,23,,"Risk Ratio (IV, Random, 95% CI)","0.66 [0.54, 0.81]",Sub‐analysis: Sanitation only versus with other WASH interventions,5,0.66,0.54,0.81,5,3,,NRCTs
+5.4 With other WASH interventions: diarrhoea ‐ children < 5 years Show forest plot,21,,"Risk Ratio (IV, Random, 95% CI)","0.77 [0.66, 0.89]",Sub‐analysis: Sanitation only versus with other WASH interventions,5,0.77,0.66,0.89,5,4,,With other WASH interventions: diarrhoea ‐ children < 5 years Show forest plot
+5.4.1 Cluster‐RCTs,7,,"Risk Ratio (IV, Random, 95% CI)","0.87 [0.74, 1.02]",Sub‐analysis: Sanitation only versus with other WASH interventions,5,0.87,0.74,1.02,5,4,,Cluster‐RCTs
+5.4.2 NRCTs,14,,"Risk Ratio (IV, Random, 95% CI)","0.68 [0.52, 0.89]",Sub‐analysis: Sanitation only versus with other WASH interventions,5,0.68,0.52,0.89,5,4,,NRCTs
+6.1 Coverage < 75%: diarrhoea ‐ all ages Show forest plot,18,,"Risk Ratio (IV, Random, 95% CI)","0.87 [0.77, 0.99]",Sub‐analysis: Sanitation coverage,6,0.87,0.77,0.99,6,1,,Coverage < 75%: diarrhoea ‐ all ages Show forest plot
+6.1.1 Cluster‐RCTs,10,,"Risk Ratio (IV, Random, 95% CI)","0.94 [0.88, 1.01]",Sub‐analysis: Sanitation coverage,6,0.94,0.88,1.01,6,1,,Cluster‐RCTs
+6.1.2 NRCTs,8,,"Risk Ratio (IV, Random, 95% CI)","0.77 [0.51, 1.16]",Sub‐analysis: Sanitation coverage,6,0.77,0.51,1.16,6,1,,NRCTs
+6.2 Coverage < 75%: diarrhoea ‐ children < 5 years Show forest plot,15,,"Risk Ratio (IV, Random, 95% CI)","0.88 [0.77, 0.99]",Sub‐analysis: Sanitation coverage,6,0.88,0.77,0.99,6,2,,Coverage < 75%: diarrhoea ‐ children < 5 years Show forest plot
+6.2.1 Cluster‐RCTs,10,,"Risk Ratio (IV, Random, 95% CI)","0.93 [0.87, 1.00]",Sub‐analysis: Sanitation coverage,6,0.93,0.87,1.0,6,2,,Cluster‐RCTs
+6.2.2 NRCTs,5,,"Risk Ratio (IV, Random, 95% CI)","0.82 [0.52, 1.30]",Sub‐analysis: Sanitation coverage,6,0.82,0.52,1.3,6,2,,NRCTs
+6.3 Coverage 75% or higher: diarrhoea ‐ all ages Show forest plot,14,,"Risk Ratio (IV, Random, 95% CI)","0.66 [0.52, 0.83]",Sub‐analysis: Sanitation coverage,6,0.66,0.52,0.83,6,3,,Coverage 75% or higher: diarrhoea ‐ all ages Show forest plot
+6.3.1 Cluster‐RCTs,3,,"Risk Ratio (IV, Random, 95% CI)","0.90 [0.65, 1.24]",Sub‐analysis: Sanitation coverage,6,0.9,0.65,1.24,6,3,,Cluster‐RCTs
+6.3.2 NRCTs,11,,"Risk Ratio (IV, Random, 95% CI)","0.58 [0.43, 0.78]",Sub‐analysis: Sanitation coverage,6,0.58,0.43,0.78,6,3,,NRCTs
+6.4 Coverage 75% or higher: diarrhoea ‐ children < 5 years Show forest plot,10,,"Risk Ratio (IV, Random, 95% CI)","0.71 [0.55, 0.92]",Sub‐analysis: Sanitation coverage,6,0.71,0.55,0.92,6,4,,Coverage 75% or higher: diarrhoea ‐ children < 5 years Show forest plot
+6.4.1 Cluster‐RCTs,3,,"Risk Ratio (IV, Random, 95% CI)","0.90 [0.65, 1.24]",Sub‐analysis: Sanitation coverage,6,0.9,0.65,1.24,6,4,,Cluster‐RCTs
+6.4.2 NRCTs,7,,"Risk Ratio (IV, Random, 95% CI)","0.62 [0.43, 0.90]",Sub‐analysis: Sanitation coverage,6,0.62,0.43,0.9,6,4,,NRCTs
+7.1 Coverage increase < 50%: diarrhoea ‐ all ages Show forest plot,16,,"Risk Ratio (IV, Random, 95% CI)","0.79 [0.67, 0.94]",Sub‐analysis: Increase in coverage,7,0.79,0.67,0.94,7,1,,Coverage increase < 50%: diarrhoea ‐ all ages Show forest plot
+7.1.1 Cluster‐RCTs,10,,"Risk Ratio (IV, Random, 95% CI)","0.94 [0.88, 1.01]",Sub‐analysis: Increase in coverage,7,0.94,0.88,1.01,7,1,,Cluster‐RCTs
+7.1.2 NRCTs,6,,"Risk Ratio (IV, Random, 95% CI)","0.69 [0.40, 1.18]",Sub‐analysis: Increase in coverage,7,0.69,0.4,1.18,7,1,,NRCTs
+7.2 Coverage increase < 50%: diarrhoea ‐ children < 5 years Show forest plot,16,,"Risk Ratio (IV, Random, 95% CI)","0.79 [0.66, 0.94]",Sub‐analysis: Increase in coverage,7,0.79,0.66,0.94,7,2,,Coverage increase < 50%: diarrhoea ‐ children < 5 years Show forest plot
+7.2.1 Cluster‐RCTs,10,,"Risk Ratio (IV, Random, 95% CI)","0.93 [0.87, 1.00]",Sub‐analysis: Increase in coverage,7,0.93,0.87,1.0,7,2,,Cluster‐RCTs
+7.2.2 NRCTs,6,,"Risk Ratio (IV, Random, 95% CI)","0.69 [0.40, 1.18]",Sub‐analysis: Increase in coverage,7,0.69,0.4,1.18,7,2,,NRCTs
+7.3 Coverage increase 50% or more: diarrhoea ‐ all ages Show forest plot,8,,"Risk Ratio (IV, Random, 95% CI)","0.77 [0.62, 0.96]",Sub‐analysis: Increase in coverage,7,0.77,0.62,0.96,7,3,,Coverage increase 50% or more: diarrhoea ‐ all ages Show forest plot
+7.3.1 Cluster‐RCTs,3,,"Risk Ratio (IV, Random, 95% CI)","0.90 [0.65, 1.24]",Sub‐analysis: Increase in coverage,7,0.9,0.65,1.24,7,3,,Cluster‐RCTs
+7.3.2 NRCTs,5,,"Risk Ratio (IV, Random, 95% CI)","0.64 [0.42, 0.96]",Sub‐analysis: Increase in coverage,7,0.64,0.42,0.96,7,3,,NRCTs
+7.4 Coverage increase 50% or more: diarrhoea ‐ children < 5 years Show forest plot,7,,"Risk Ratio (IV, Random, 95% CI)","0.87 [0.71, 1.05]",Sub‐analysis: Increase in coverage,7,0.87,0.71,1.05,7,4,,Coverage increase 50% or more: diarrhoea ‐ children < 5 years Show forest plot
+7.4.1 Cluster‐RCTs,3,,"Risk Ratio (IV, Random, 95% CI)","0.90 [0.65, 1.24]",Sub‐analysis: Increase in coverage,7,0.9,0.65,1.24,7,4,,Cluster‐RCTs
+7.4.2 NRCTs,4,,"Risk Ratio (IV, Random, 95% CI)","0.82 [0.61, 1.10]",Sub‐analysis: Increase in coverage,7,0.82,0.61,1.1,7,4,,NRCTs
+8.1 1 year or less: diarrhoea ‐ all ages Show forest plot,19,,"Risk Ratio (IV, Random, 95% CI)","0.70 [0.58, 0.84]",Sub‐analysis: Length of follow‐up,8,0.7,0.58,0.84,8,1,,1 year or less: diarrhoea ‐ all ages Show forest plot
+8.1.1 Cluster‐RCTs,7,,"Risk Ratio (IV, Random, 95% CI)","0.88 [0.73, 1.05]",Sub‐analysis: Length of follow‐up,8,0.88,0.73,1.05,8,1,,Cluster‐RCTs
+8.1.2 NRCTs,12,,"Risk Ratio (IV, Random, 95% CI)","0.55 [0.41, 0.74]",Sub‐analysis: Length of follow‐up,8,0.55,0.41,0.74,8,1,,NRCTs
+8.2 1 year or less: diarrhoea ‐ children < 5 years Show forest plot,12,,"Risk Ratio (IV, Random, 95% CI)","0.75 [0.59, 0.94]",Sub‐analysis: Length of follow‐up,8,0.75,0.59,0.94,8,2,,1 year or less: diarrhoea ‐ children < 5 years Show forest plot
+8.2.1 Cluster‐RCTs,7,,"Risk Ratio (IV, Random, 95% CI)","0.88 [0.73, 1.05]",Sub‐analysis: Length of follow‐up,8,0.88,0.73,1.05,8,2,,Cluster‐RCTs
+8.2.2 NRCTs,5,,"Risk Ratio (IV, Random, 95% CI)","0.52 [0.29, 0.94]",Sub‐analysis: Length of follow‐up,8,0.52,0.29,0.94,8,2,,NRCTs
+8.3 > 1 year to 2 years: diarrhoea ‐ all ages Show forest plot,17,,"Risk Ratio (IV, Random, 95% CI)","0.80 [0.70, 0.92]",Sub‐analysis: Length of follow‐up,8,0.8,0.7,0.92,8,3,,> 1 year to 2 years: diarrhoea ‐ all ages Show forest plot
+8.3.1 Cluster‐RCTs,10,,"Risk Ratio (IV, Random, 95% CI)","0.84 [0.73, 0.97]",Sub‐analysis: Length of follow‐up,8,0.84,0.73,0.97,8,3,,Cluster‐RCTs
+8.3.2 NRCTs,7,,"Risk Ratio (IV, Random, 95% CI)","0.76 [0.55, 1.06]",Sub‐analysis: Length of follow‐up,8,0.76,0.55,1.06,8,3,,NRCTs
+8.4 > 1 year to 2 years: diarrhoea ‐ children < 5 years Show forest plot,11,,"Risk Ratio (IV, Random, 95% CI)","0.83 [0.70, 0.97]",Sub‐analysis: Length of follow‐up,8,0.83,0.7,0.97,8,4,,> 1 year to 2 years: diarrhoea ‐ children < 5 years Show forest plot
+8.4.1 Cluster‐RCTs,7,,"Risk Ratio (IV, Random, 95% CI)","0.88 [0.77, 1.00]",Sub‐analysis: Length of follow‐up,8,0.88,0.77,1.0,8,4,,Cluster‐RCTs
+8.4.2 NRCTs,4,,"Risk Ratio (IV, Random, 95% CI)","0.76 [0.46, 1.25]",Sub‐analysis: Length of follow‐up,8,0.76,0.46,1.25,8,4,,NRCTs
+8.5 3 years or more: diarrhoea ‐ all ages Show forest plot,11,,"Risk Ratio (IV, Random, 95% CI)","0.71 [0.58, 0.87]",Sub‐analysis: Length of follow‐up,8,0.71,0.58,0.87,8,5,,3 years or more: diarrhoea ‐ all ages Show forest plot
+8.5.1 NRCTs,11,,"Risk Ratio (IV, Random, 95% CI)","0.71 [0.58, 0.87]",Sub‐analysis: Length of follow‐up,8,0.71,0.58,0.87,8,5,,NRCTs
+8.6 3 years or more: diarrhoea ‐ children < 5 years Show forest plot,8,,"Risk Ratio (IV, Random, 95% CI)","0.80 [0.70, 0.93]",Sub‐analysis: Length of follow‐up,8,0.8,0.7,0.93,8,6,,3 years or more: diarrhoea ‐ children < 5 years Show forest plot
+8.6.1 NRCTs,8,,"Risk Ratio (IV, Random, 95% CI)","0.80 [0.70, 0.93]",Sub‐analysis: Length of follow‐up,8,0.8,0.7,0.93,8,6,,NRCTs

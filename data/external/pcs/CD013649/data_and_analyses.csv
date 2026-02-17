@@ -1,0 +1,67 @@
+Outcome or subgroup title,No. of studies,No. of participants,Statistical method,Effect size,comparison_name,comparison_id,effect_size,lower_ci,upper_ci,outcome_id,subgroup_id,outcome_name,subgroup_name
+1.1 Number of red blood cells (units) transfused per participant up to 30 days post surgery Show forest plot,3,,"Mean Difference (IV, Random, 95% CI)",Subtotals only,Systemic drug treatments,1,,,,1,1,,Number of red blood cells (units) transfused per participant up to 30 days post surgery Show forest plot
+1.1.1 Aprotinin vs placebo,1,35,"Mean Difference (IV, Random, 95% CI)","‐1.56 [‐5.65, 2.53]",Systemic drug treatments,1,-1.56,-5.65,2.53,1,1,,Aprotinin vs placebo
+1.1.2 Desmopressin vs placebo,2,135,"Mean Difference (IV, Random, 95% CI)","‐0.23 [‐0.87, 0.42]",Systemic drug treatments,1,-0.23,-0.87,0.42,1,1,,Desmopressin vs placebo
+1.2 All‐cause mortality at up to 30 days Show forest plot,5,,"Risk Ratio (M‐H, Random, 95% CI)",Subtotals only,Systemic drug treatments,1,,,,1,2,,All‐cause mortality at up to 30 days Show forest plot
+1.2.1 Aprotinin vs placebo,3,244,"Risk Ratio (M‐H, Random, 95% CI)","0.96 [0.61, 1.52]",Systemic drug treatments,1,0.96,0.61,1.52,1,2,,Aprotinin vs placebo
+1.2.2 Desmopressin vs placebo,1,91,"Risk Ratio (M‐H, Random, 95% CI)","5.57 [0.27, 112.85]",Systemic drug treatments,1,5.57,0.27,112.85,1,2,,Desmopressin vs placebo
+1.2.3 Tranexamic acid vs placebo,1,100,"Risk Ratio (M‐H, Random, 95% CI)",Not estimable,Systemic drug treatments,1,,,,1,2,,Tranexamic acid vs placebo
+1.3 Risk of receiving any allogeneic blood product at up to 30 days post surgery Show forest plot,1,,"Peto Odds Ratio (Peto, Fixed, 95% CI)",Totals not selected,Systemic drug treatments,1,,,,1,3,,Risk of receiving any allogeneic blood product at up to 30 days post surgery Show forest plot
+1.3.1 Tranexamic acid vs placebo,1,,"Peto Odds Ratio (Peto, Fixed, 95% CI)",Totals not selected,Systemic drug treatments,1,,,,1,3,,Tranexamic acid vs placebo
+1.4 Risk of reoperation or repeat procedure for bleeding within 7 days Show forest plot,2,,"Risk Ratio (M‐H, Random, 95% CI)",Totals not selected,Systemic drug treatments,1,,,,1,4,,Risk of reoperation or repeat procedure for bleeding within 7 days Show forest plot
+1.4.1 Aprotinin vs placebo,1,,"Risk Ratio (M‐H, Random, 95% CI)",Totals not selected,Systemic drug treatments,1,,,,1,4,,Aprotinin vs placebo
+1.4.2 Tranexamic acid vs placebo,1,,"Risk Ratio (M‐H, Random, 95% CI)",Totals not selected,Systemic drug treatments,1,,,,1,4,,Tranexamic acid vs placebo
+"1.5 Risk of a thrombotic/thromboembolic event (MI, CVA, DVT, PE) up to 30‐day follow‐up Show forest plot",2,,"Risk Ratio (M‐H, Random, 95% CI)",Totals not selected,Systemic drug treatments,1,,,,1,5,,"Risk of a thrombotic/thromboembolic event (MI, CVA, DVT, PE) up to 30‐day follow‐up Show forest plot"
+1.5.1 Desmopressin vs placebo,1,,"Risk Ratio (M‐H, Random, 95% CI)",Totals not selected,Systemic drug treatments,1,,,,1,5,,Desmopressin vs placebo
+1.5.2 Tranexamic acid vs placebo,1,,"Risk Ratio (M‐H, Random, 95% CI)",Totals not selected,Systemic drug treatments,1,,,,1,5,,Tranexamic acid vs placebo
+1.6 Risk of myocardial infarction up to 30 days Show forest plot,4,,"Peto Odds Ratio (Peto, Fixed, 95% CI)",Subtotals only,Systemic drug treatments,1,,,,1,6,,Risk of myocardial infarction up to 30 days Show forest plot
+1.6.1 Aprotinin vs placebo,2,209,"Peto Odds Ratio (Peto, Fixed, 95% CI)","0.41 [0.09, 1.82]",Systemic drug treatments,1,0.41,0.09,1.82,1,6,,Aprotinin vs placebo
+1.6.2 Desmopressin vs placebo,1,91,"Peto Odds Ratio (Peto, Fixed, 95% CI)","0.55 [0.11, 2.88]",Systemic drug treatments,1,0.55,0.11,2.88,1,6,,Desmopressin vs placebo
+1.6.3 Tranexamic acid vs placebo,1,100,"Peto Odds Ratio (Peto, Fixed, 95% CI)","1.00 [0.14, 7.32]",Systemic drug treatments,1,1.0,0.14,7.32,1,6,,Tranexamic acid vs placebo
+1.7 Risk of CVA or stroke up to 30 days Show forest plot,2,,"Peto Odds Ratio (Peto, Fixed, 95% CI)",Subtotals only,Systemic drug treatments,1,,,,1,7,,Risk of CVA or stroke up to 30 days Show forest plot
+1.7.1 Aprotinin vs placebo,2,209,"Peto Odds Ratio (Peto, Fixed, 95% CI)","0.36 [0.05, 2.62]",Systemic drug treatments,1,0.36,0.05,2.62,1,7,,Aprotinin vs placebo
+1.8 Risk of deep vein thrombosis up to 90 days Show forest plot,2,,"Peto Odds Ratio (Peto, Fixed, 95% CI)",Totals not selected,Systemic drug treatments,1,,,,1,8,,Risk of deep vein thrombosis up to 90 days Show forest plot
+1.8.1 Aprotinin vs placebo,1,,"Peto Odds Ratio (Peto, Fixed, 95% CI)",Totals not selected,Systemic drug treatments,1,,,,1,8,,Aprotinin vs placebo
+1.8.2 Desmopressin vs placebo,1,,"Peto Odds Ratio (Peto, Fixed, 95% CI)",Totals not selected,Systemic drug treatments,1,,,,1,8,,Desmopressin vs placebo
+1.9 Risk of pulmonary embolism up to 90 days Show forest plot,3,,"Peto Odds Ratio (Peto, Fixed, 95% CI)",Totals not selected,Systemic drug treatments,1,,,,1,9,,Risk of pulmonary embolism up to 90 days Show forest plot
+1.9.1 Aprotinin vs placebo,1,,"Peto Odds Ratio (Peto, Fixed, 95% CI)",Totals not selected,Systemic drug treatments,1,,,,1,9,,Aprotinin vs placebo
+1.9.2 Desmopressin vs placebo,1,,"Peto Odds Ratio (Peto, Fixed, 95% CI)",Totals not selected,Systemic drug treatments,1,,,,1,9,,Desmopressin vs placebo
+1.9.3 Tranexamic acid vs placebo,1,,"Peto Odds Ratio (Peto, Fixed, 95% CI)",Totals not selected,Systemic drug treatments,1,,,,1,9,,Tranexamic acid vs placebo
+2.1 Number of red blood cells (units) transfused per participant up to 30 days Show forest plot,1,,"Mean Difference (IV, Random, 95% CI)",Subtotals only,Topical drug treatments,2,,,,2,1,,Number of red blood cells (units) transfused per participant up to 30 days Show forest plot
+2.1.1 Thrombin+fibrin/collagen sponge vs usual care,1,20,"Mean Difference (IV, Random, 95% CI)","‐0.10 [‐0.80, 0.60]",Topical drug treatments,2,-0.1,-0.8,0.6,2,1,,Thrombin+fibrin/collagen sponge vs usual care
+2.2 All‐cause mortality at up to 30 days Show forest plot,10,,"Risk Ratio (M‐H, Random, 95% CI)",Subtotals only,Topical drug treatments,2,,,,2,2,,All‐cause mortality at up to 30 days Show forest plot
+2.2.1 Thrombin+fibrin/collagen sponge vs usual care,1,22,"Risk Ratio (M‐H, Random, 95% CI)","3.00 [0.14, 66.53]",Topical drug treatments,2,3.0,0.14,66.53,2,2,,Thrombin+fibrin/collagen sponge vs usual care
+2.2.2 Human thrombin/gelatin sponge vs bovine thrombin/gelatin sponge,1,31,"Risk Ratio (M‐H, Random, 95% CI)",Not estimable,Topical drug treatments,2,,,,2,2,,Human thrombin/gelatin sponge vs bovine thrombin/gelatin sponge
+2.2.3 Collagen dressing vs oxidised cellulose,1,16,"Risk Ratio (M‐H, Random, 95% CI)","3.00 [0.14, 64.26]",Topical drug treatments,2,3.0,0.14,64.26,2,2,,Collagen dressing vs oxidised cellulose
+2.2.4 Novel agent/gelatin sponge vs placebo/gelatin sponge,1,54,"Risk Ratio (M‐H, Random, 95% CI)",Not estimable,Topical drug treatments,2,,,,2,2,,Novel agent/gelatin sponge vs placebo/gelatin sponge
+2.2.5 Fibrin sealant vs usual care,3,585,"Risk Ratio (M‐H, Random, 95% CI)","0.44 [0.11, 1.76]",Topical drug treatments,2,0.44,0.11,1.76,2,2,,Fibrin sealant vs usual care
+2.2.6 Fibrin sealant vs gelatin sponge,1,176,"Risk Ratio (M‐H, Random, 95% CI)","2.46 [0.29, 20.55]",Topical drug treatments,2,2.46,0.29,20.55,2,2,,Fibrin sealant vs gelatin sponge
+2.2.7 Fibrin sealant vs thrombin/gelatin sponge,1,199,"Risk Ratio (M‐H, Random, 95% CI)","0.50 [0.09, 2.64]",Topical drug treatments,2,0.5,0.09,2.64,2,2,,Fibrin sealant vs thrombin/gelatin sponge
+2.2.8 Synthetic sealant vs thrombin/gelatin sponge,1,89,"Risk Ratio (M‐H, Random, 95% CI)","0.10 [0.01, 1.71]",Topical drug treatments,2,0.1,0.01,1.71,2,2,,Synthetic sealant vs thrombin/gelatin sponge
+2.3 Risk of receiving any allogeneic blood product at up to 30 days post surgery Show forest plot,2,,"Risk Ratio (M‐H, Random, 95% CI)",Subtotals only,Topical drug treatments,2,,,,2,3,,Risk of receiving any allogeneic blood product at up to 30 days post surgery Show forest plot
+2.3.1 Fibrin/collagen sponge vs usual care,1,60,"Risk Ratio (M‐H, Random, 95% CI)","0.33 [0.12, 0.92]",Topical drug treatments,2,0.33,0.12,0.92,2,3,,Fibrin/collagen sponge vs usual care
+2.3.2 Thrombin+fibrin/collagen sponge vs usual care,1,22,"Risk Ratio (M‐H, Random, 95% CI)","0.20 [0.01, 3.74]",Topical drug treatments,2,0.2,0.01,3.74,2,3,,Thrombin+fibrin/collagen sponge vs usual care
+2.4 Risk of reoperation or repeat procedure for bleeding within 7 days Show forest plot,3,,"Risk Ratio (M‐H, Random, 95% CI)",Subtotals only,Topical drug treatments,2,,,,2,4,,Risk of reoperation or repeat procedure for bleeding within 7 days Show forest plot
+2.4.1 Fibrin sealant vs usual care,1,160,"Risk Ratio (M‐H, Random, 95% CI)","1.03 [0.31, 3.40]",Topical drug treatments,2,1.03,0.31,3.4,2,4,,Fibrin sealant vs usual care
+2.4.2 Fibrin sealant vs gelatin sponge,1,175,"Risk Ratio (M‐H, Random, 95% CI)","0.17 [0.01, 4.03]",Topical drug treatments,2,0.17,0.01,4.03,2,4,,Fibrin sealant vs gelatin sponge
+2.4.3 Synthetic sealant vs thrombin/gelatin sponge,1,89,"Risk Ratio (M‐H, Random, 95% CI)","0.36 [0.01, 8.51]",Topical drug treatments,2,0.36,0.01,8.51,2,4,,Synthetic sealant vs thrombin/gelatin sponge
+"2.5 Risk of a thrombotic/thromboembolic event (MI, CVA, DVT, PE) up to 30‐day follow‐up Show forest plot",6,,"Peto Odds Ratio (Peto, Fixed, 95% CI)",Totals not selected,Topical drug treatments,2,,,,2,5,,"Risk of a thrombotic/thromboembolic event (MI, CVA, DVT, PE) up to 30‐day follow‐up Show forest plot"
+2.5.1 Fibrin/collagen sponge vs usual care,1,,"Peto Odds Ratio (Peto, Fixed, 95% CI)",Totals not selected,Topical drug treatments,2,,,,2,5,,Fibrin/collagen sponge vs usual care
+2.5.2 Thrombin+fibrin/collagen sponge vs usual care,2,,"Peto Odds Ratio (Peto, Fixed, 95% CI)",Totals not selected,Topical drug treatments,2,,,,2,5,,Thrombin+fibrin/collagen sponge vs usual care
+2.5.3 Collagen dressing vs oxidised cellulose,1,,"Peto Odds Ratio (Peto, Fixed, 95% CI)",Totals not selected,Topical drug treatments,2,,,,2,5,,Collagen dressing vs oxidised cellulose
+2.5.4 Fibrin sealant vs usual care,1,,"Peto Odds Ratio (Peto, Fixed, 95% CI)",Totals not selected,Topical drug treatments,2,,,,2,5,,Fibrin sealant vs usual care
+2.5.5 Synthetic sealant vs thrombin/gelatin sponge,1,,"Peto Odds Ratio (Peto, Fixed, 95% CI)",Totals not selected,Topical drug treatments,2,,,,2,5,,Synthetic sealant vs thrombin/gelatin sponge
+2.6 Risk of a myocardial infarction up to 30 days Show forest plot,4,,"Peto Odds Ratio (Peto, Fixed, 95% CI)",Totals not selected,Topical drug treatments,2,,,,2,6,,Risk of a myocardial infarction up to 30 days Show forest plot
+2.6.1 Thrombin+fibrin/collagen sponge vs usual care,1,,"Peto Odds Ratio (Peto, Fixed, 95% CI)",Totals not selected,Topical drug treatments,2,,,,2,6,,Thrombin+fibrin/collagen sponge vs usual care
+2.6.2 Collagen dressing vs oxidised cellulose,1,,"Peto Odds Ratio (Peto, Fixed, 95% CI)",Totals not selected,Topical drug treatments,2,,,,2,6,,Collagen dressing vs oxidised cellulose
+2.6.3 Fibrin sealant vs usual care,2,,"Peto Odds Ratio (Peto, Fixed, 95% CI)",Totals not selected,Topical drug treatments,2,,,,2,6,,Fibrin sealant vs usual care
+2.7 Risk of a CVA or stroke up to 30 days Show forest plot,3,,"Peto Odds Ratio (Peto, Fixed, 95% CI)",Totals not selected,Topical drug treatments,2,,,,2,7,,Risk of a CVA or stroke up to 30 days Show forest plot
+2.7.1 Collagen dressing vs oxidised cellulose,1,,"Peto Odds Ratio (Peto, Fixed, 95% CI)",Totals not selected,Topical drug treatments,2,,,,2,7,,Collagen dressing vs oxidised cellulose
+2.7.2 fibrin sealant vs usual care,2,,"Peto Odds Ratio (Peto, Fixed, 95% CI)",Totals not selected,Topical drug treatments,2,,,,2,7,,fibrin sealant vs usual care
+2.8 Risk of a deep vein thrombosis up to 90 days Show forest plot,2,,"Peto Odds Ratio (Peto, Fixed, 95% CI)",Totals not selected,Topical drug treatments,2,,,,2,8,,Risk of a deep vein thrombosis up to 90 days Show forest plot
+2.8.1 Collagen dressing vs oxidised cellulose,1,,"Peto Odds Ratio (Peto, Fixed, 95% CI)",Totals not selected,Topical drug treatments,2,,,,2,8,,Collagen dressing vs oxidised cellulose
+2.8.2 Fibrin sealant vs usual care,1,,"Peto Odds Ratio (Peto, Fixed, 95% CI)",Totals not selected,Topical drug treatments,2,,,,2,8,,Fibrin sealant vs usual care
+2.9 Risk of a pulmonary embolism up to 90 days Show forest plot,3,,"Peto Odds Ratio (Peto, Fixed, 95% CI)",Totals not selected,Topical drug treatments,2,,,,2,9,,Risk of a pulmonary embolism up to 90 days Show forest plot
+2.9.1 Collagen dressing vs oxidised cellulose,1,,"Peto Odds Ratio (Peto, Fixed, 95% CI)",Totals not selected,Topical drug treatments,2,,,,2,9,,Collagen dressing vs oxidised cellulose
+2.9.2 Novel agent (Peprostat) vs placebo/gelatin sponge,1,,"Peto Odds Ratio (Peto, Fixed, 95% CI)",Totals not selected,Topical drug treatments,2,,,,2,9,,Novel agent (Peprostat) vs placebo/gelatin sponge
+2.9.3 Fibrin sealant vs usual care,1,,"Peto Odds Ratio (Peto, Fixed, 95% CI)",Totals not selected,Topical drug treatments,2,,,,2,9,,Fibrin sealant vs usual care

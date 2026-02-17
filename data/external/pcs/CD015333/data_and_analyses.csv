@@ -1,0 +1,15 @@
+Outcome or subgroup title,No. of studies,No. of participants,Statistical method,Effect size,comparison_name,comparison_id,effect_size,lower_ci,upper_ci,outcome_id,subgroup_id,outcome_name,subgroup_name
+1.1 Disease‐specific health‐related quality of life Show forest plot,1,22,"Mean Difference (IV, Random, 95% CI)","6.00 [‐5.66, 17.66]",Transcranial direct current stimulation versus placebo,1,6.0,-5.66,17.66,1,1,,Disease‐specific health‐related quality of life Show forest plot
+1.2 Other adverse events Show forest plot,1,,"Risk Ratio (M‐H, Random, 95% CI)",Subtotals only,Transcranial direct current stimulation versus placebo,1,,,,1,2,,Other adverse events Show forest plot
+1.2.1 Headache,1,21,"Risk Ratio (M‐H, Random, 95% CI)","1.52 [0.48, 4.77]",Transcranial direct current stimulation versus placebo,1,1.52,0.48,4.77,1,2,,Headache
+1.2.2 Sleep disturbance,1,21,"Risk Ratio (M‐H, Random, 95% CI)","1.36 [0.28, 6.56]",Transcranial direct current stimulation versus placebo,1,1.36,0.28,6.56,1,2,,Sleep disturbance
+1.2.3 Dizziness,1,21,"Risk Ratio (M‐H, Random, 95% CI)","0.91 [0.43, 1.90]",Transcranial direct current stimulation versus placebo,1,0.91,0.43,1.9,1,2,,Dizziness
+1.2.4 Itchiness,1,21,"Risk Ratio (M‐H, Random, 95% CI)","1.36 [0.54, 3.46]",Transcranial direct current stimulation versus placebo,1,1.36,0.54,3.46,1,2,,Itchiness
+1.2.5 Tingling sensation,1,21,"Risk Ratio (M‐H, Random, 95% CI)","1.52 [0.48, 4.77]",Transcranial direct current stimulation versus placebo,1,1.52,0.48,4.77,1,2,,Tingling sensation
+1.2.6 Pain at stimulation site,1,21,"Risk Ratio (M‐H, Random, 95% CI)","0.91 [0.24, 3.51]",Transcranial direct current stimulation versus placebo,1,0.91,0.24,3.51,1,2,,Pain at stimulation site
+1.2.7 Neck pain,1,21,"Risk Ratio (M‐H, Random, 95% CI)","2.73 [0.34, 22.16]",Transcranial direct current stimulation versus placebo,1,2.73,0.34,22.16,1,2,,Neck pain
+1.2.8 Redness of skin,1,21,"Risk Ratio (M‐H, Random, 95% CI)","2.73 [0.34, 22.16]",Transcranial direct current stimulation versus placebo,1,2.73,0.34,22.16,1,2,,Redness of skin
+1.2.9 Reduced concentration,1,21,"Risk Ratio (M‐H, Random, 95% CI)","2.73 [0.34, 22.16]",Transcranial direct current stimulation versus placebo,1,2.73,0.34,22.16,1,2,,Reduced concentration
+1.2.10 Fatigue,1,21,"Risk Ratio (M‐H, Random, 95% CI)","1.36 [0.28, 6.56]",Transcranial direct current stimulation versus placebo,1,1.36,0.28,6.56,1,2,,Fatigue
+1.2.11 Nausea,1,21,"Risk Ratio (M‐H, Random, 95% CI)","0.45 [0.05, 4.28]",Transcranial direct current stimulation versus placebo,1,0.45,0.05,4.28,1,2,,Nausea
+1.2.12 Burning sensation,1,21,"Risk Ratio (M‐H, Random, 95% CI)","0.45 [0.05, 4.28]",Transcranial direct current stimulation versus placebo,1,0.45,0.05,4.28,1,2,,Burning sensation

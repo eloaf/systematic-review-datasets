@@ -1,0 +1,999 @@
+{
+  "data_format_version": "1.0.0",
+  "updated_at": "2026-02-17 14:17:50",
+  "data": [
+    {
+      "title": "Case management for integrated care of older people with frailty in community settings",
+      "doi": "https://doi.org/10.1002/14651858.CD013088.pub2",
+      "review_id": "CD013088",
+      "source": "Cochrane",
+      "versions": {
+        "1": "https://doi.org/10.1002/14651858.CD013088",
+        "2": "https://doi.org/10.1002/14651858.CD013088.pub2"
+      },
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013088.pub2",
+      "pdf": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013088.pub2/pdf/CDSR/CD013088/CD013088.pdf",
+      "pdf_md5": "9ba0f1ad9ae00734a376c31da33f7c00",
+      "revman": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013088.pub2/media/CDSR/CD013088/table_n/CD013088StatsDataOnly.rm5",
+      "revman_md5": "",
+      "references": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013088.pub2/references",
+      "n_studies_included": 20,
+      "n_references_included": 49,
+      "unique_references_included": 49,
+      "unique_references_excluded": 30,
+      "n_comparisons": 8,
+      "n_outcomes": 11,
+      "n_outcomes_and_subgroups": 138,
+      "avg_studies_for_outcome": 3.5,
+      "cochrane_id": "CD013088",
+      "dataset_id": 0,
+      "used_in": [
+        "pcs"
+      ],
+      "dataset_split": "test"
+    },
+    {
+      "title": "Balanced crystalloid solutions versus 0.9% saline for treating acute diarrhoea and severe dehydration in children",
+      "doi": "https://doi.org/10.1002/14651858.CD013640.pub2",
+      "review_id": "CD013640",
+      "source": "Cochrane",
+      "versions": {
+        "1": "https://doi.org/10.1002/14651858.CD013640",
+        "2": "https://doi.org/10.1002/14651858.CD013640.pub2"
+      },
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013640.pub2",
+      "pdf": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013640.pub2/pdf/CDSR/CD013640/CD013640.pdf",
+      "pdf_md5": "",
+      "revman": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013640.pub2/media/CDSR/CD013640/table_n/CD013640StatsDataOnly.rm5",
+      "revman_md5": "",
+      "references": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013640.pub2/references",
+      "n_studies_included": 5,
+      "n_references_included": 9,
+      "unique_references_included": 9,
+      "unique_references_excluded": 11,
+      "n_comparisons": 1,
+      "n_outcomes": 1,
+      "n_outcomes_and_subgroups": 12,
+      "avg_studies_for_outcome": 1.9166666666666667,
+      "cochrane_id": "CD013640",
+      "dataset_id": 1,
+      "used_in": [
+        "pcs"
+      ],
+      "dataset_split": "test"
+    },
+    {
+      "title": "Remote care through telehealth for people with inflammatory bowel disease",
+      "doi": "https://doi.org/10.1002/14651858.CD014821.pub2",
+      "review_id": "CD014821",
+      "source": "Cochrane",
+      "versions": {
+        "1": "https://doi.org/10.1002/14651858.CD014821",
+        "2": "https://doi.org/10.1002/14651858.CD014821.pub2"
+      },
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014821.pub2",
+      "pdf": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014821.pub2/pdf/CDSR/CD014821/CD014821.pdf",
+      "pdf_md5": "",
+      "revman": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014821.pub2/media/CDSR/CD014821/table_n/CD014821StatsDataOnly.rm5",
+      "revman_md5": "",
+      "references": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014821.pub2/references",
+      "n_studies_included": 19,
+      "n_references_included": 70,
+      "unique_references_included": 70,
+      "unique_references_excluded": 41,
+      "n_comparisons": 2,
+      "n_outcomes": 1,
+      "n_outcomes_and_subgroups": 39,
+      "avg_studies_for_outcome": 1.9487179487179487,
+      "cochrane_id": "CD014821",
+      "dataset_id": 2,
+      "used_in": [
+        "pcs"
+      ],
+      "dataset_split": "test"
+    },
+    {
+      "title": "Patient education interventions for the management of inflammatory bowel disease",
+      "doi": "https://doi.org/10.1002/14651858.CD013854.pub2",
+      "review_id": "CD013854",
+      "source": "Cochrane",
+      "versions": {
+        "1": "https://doi.org/10.1002/14651858.CD013854",
+        "2": "https://doi.org/10.1002/14651858.CD013854.pub2"
+      },
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013854.pub2",
+      "pdf": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013854.pub2/pdf/CDSR/CD013854/CD013854.pdf",
+      "pdf_md5": "",
+      "revman": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013854.pub2/media/CDSR/CD013854/table_n/CD013854StatsDataOnly.rm5",
+      "revman_md5": "",
+      "references": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013854.pub2/references",
+      "n_studies_included": 14,
+      "n_references_included": 33,
+      "unique_references_included": 33,
+      "unique_references_excluded": 44,
+      "n_comparisons": 1,
+      "n_outcomes": 1,
+      "n_outcomes_and_subgroups": 21,
+      "avg_studies_for_outcome": 2.1904761904761907,
+      "cochrane_id": "CD013854",
+      "dataset_id": 3,
+      "used_in": [
+        "pcs"
+      ],
+      "dataset_split": "test"
+    },
+    {
+      "title": "Training health workers in clinical breast examination for early detection of breast cancer in low\u2010 and middle\u2010income countries",
+      "doi": "https://doi.org/10.1002/14651858.CD012515.pub2",
+      "review_id": "CD012515",
+      "source": "Cochrane",
+      "versions": {
+        "1": "https://doi.org/10.1002/14651858.CD012515",
+        "2": "https://doi.org/10.1002/14651858.CD012515.pub2"
+      },
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012515.pub2",
+      "pdf": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012515.pub2/pdf/CDSR/CD012515/CD012515.pdf",
+      "pdf_md5": "",
+      "revman": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012515.pub2/media/CDSR/CD012515/table_n/CD012515StatsDataOnly.rm5",
+      "revman_md5": "",
+      "references": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012515.pub2/references",
+      "n_studies_included": 4,
+      "n_references_included": 4,
+      "unique_references_included": 4,
+      "unique_references_excluded": 23,
+      "n_comparisons": 1,
+      "n_outcomes": 1,
+      "n_outcomes_and_subgroups": 3,
+      "avg_studies_for_outcome": 2.6666666666666665,
+      "cochrane_id": "CD012515",
+      "dataset_id": 4,
+      "used_in": [
+        "pcs"
+      ],
+      "dataset_split": "test"
+    },
+    {
+      "title": "Non\u2010pharmacological interventions for prophylaxis of vestibular migraine",
+      "doi": "https://doi.org/10.1002/14651858.CD015321.pub2",
+      "review_id": "CD015321",
+      "source": "Cochrane",
+      "versions": {
+        "1": "https://doi.org/10.1002/14651858.CD015321",
+        "2": "https://doi.org/10.1002/14651858.CD015321.pub2"
+      },
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015321.pub2",
+      "pdf": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015321.pub2/pdf/CDSR/CD015321/CD015321.pdf",
+      "pdf_md5": "",
+      "revman": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015321.pub2/media/CDSR/CD015321/table_n/CD015321StatsDataOnly.rm5",
+      "revman_md5": "",
+      "references": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015321.pub2/references",
+      "n_studies_included": 3,
+      "n_references_included": 6,
+      "unique_references_included": 6,
+      "unique_references_excluded": 12,
+      "n_comparisons": 3,
+      "n_outcomes": 2,
+      "n_outcomes_and_subgroups": 40,
+      "avg_studies_for_outcome": 1.0,
+      "cochrane_id": "CD015321",
+      "dataset_id": 5,
+      "used_in": [
+        "pcs"
+      ],
+      "dataset_split": "test"
+    },
+    {
+      "title": "Pharmacological interventions for prophylaxis of vestibular migraine",
+      "doi": "https://doi.org/10.1002/14651858.CD015187.pub2",
+      "review_id": "CD015187",
+      "source": "Cochrane",
+      "versions": {
+        "1": "https://doi.org/10.1002/14651858.CD015187",
+        "2": "https://doi.org/10.1002/14651858.CD015187.pub2"
+      },
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015187.pub2",
+      "pdf": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015187.pub2/pdf/CDSR/CD015187/CD015187.pdf",
+      "pdf_md5": "",
+      "revman": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015187.pub2/media/CDSR/CD015187/table_n/CD015187StatsDataOnly.rm5",
+      "revman_md5": "",
+      "references": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015187.pub2/references",
+      "n_studies_included": 3,
+      "n_references_included": 7,
+      "unique_references_included": 7,
+      "unique_references_excluded": 17,
+      "n_comparisons": 2,
+      "n_outcomes": 1,
+      "n_outcomes_and_subgroups": 11,
+      "avg_studies_for_outcome": 1.2727272727272727,
+      "cochrane_id": "CD015187",
+      "dataset_id": 6,
+      "used_in": [
+        "pcs"
+      ],
+      "dataset_split": "test"
+    },
+    {
+      "title": "Pharmacological interventions for acute attacks of vestibular migraine",
+      "doi": "https://doi.org/10.1002/14651858.CD015322.pub2",
+      "review_id": "CD015322",
+      "source": "Cochrane",
+      "versions": {
+        "1": "https://doi.org/10.1002/14651858.CD015322",
+        "2": "https://doi.org/10.1002/14651858.CD015322.pub2"
+      },
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015322.pub2",
+      "pdf": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015322.pub2/pdf/CDSR/CD015322/CD015322.pdf",
+      "pdf_md5": "",
+      "revman": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015322.pub2/media/CDSR/CD015322/table_n/CD015322StatsDataOnly.rm5",
+      "revman_md5": "79d3c9980f97fa4f5039db56ebe891d1",
+      "references": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015322.pub2/references",
+      "n_studies_included": 2,
+      "n_references_included": 2,
+      "unique_references_included": 2,
+      "unique_references_excluded": 8,
+      "n_comparisons": 1,
+      "n_outcomes": 1,
+      "n_outcomes_and_subgroups": 17,
+      "avg_studies_for_outcome": 1.2352941176470589,
+      "cochrane_id": "CD015322",
+      "dataset_id": 7,
+      "used_in": [
+        "pcs"
+      ],
+      "dataset_split": "test"
+    },
+    {
+      "title": "Interventions for patent ductus arteriosus (PDA) in preterm infants: an overview of Cochrane Systematic Reviews",
+      "doi": "https://doi.org/10.1002/14651858.CD013588.pub2",
+      "review_id": "CD013588",
+      "source": "Cochrane",
+      "versions": {
+        "1": "https://doi.org/10.1002/14651858.CD013588",
+        "2": "https://doi.org/10.1002/14651858.CD013588.pub2"
+      },
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013588.pub2",
+      "pdf": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013588.pub2/pdf/CDSR/CD013588/CD013588.pdf",
+      "pdf_md5": "e5eadc9f1830d4e900e2114e33763570",
+      "revman": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013588.pub2/media/CDSR/CD013588/table_n/CD013588StatsDataOnly.rm5",
+      "revman_md5": "",
+      "references": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013588.pub2/references",
+      "n_studies_included": 0,
+      "n_references_included": 0,
+      "unique_references_included": 0,
+      "unique_references_excluded": 0,
+      "n_comparisons": 0,
+      "n_outcomes": 0,
+      "n_outcomes_and_subgroups": 0,
+      "avg_studies_for_outcome": 0,
+      "cochrane_id": "CD013588",
+      "dataset_id": 8,
+      "used_in": [
+        "pcs"
+      ],
+      "dataset_split": "test"
+    },
+    {
+      "title": "Systemic opioid regimens for postoperative pain in neonates",
+      "doi": "https://doi.org/10.1002/14651858.CD015016.pub2",
+      "review_id": "CD015016",
+      "source": "Cochrane",
+      "versions": {
+        "1": "https://doi.org/10.1002/14651858.CD015016",
+        "2": "https://doi.org/10.1002/14651858.CD015016.pub2",
+        "3": "https://doi.org/10.1002/14651858.CD015016.pub3"
+      },
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015016.pub2",
+      "pdf": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015016.pub2/pdf/CDSR/CD015016/CD015016.pdf",
+      "pdf_md5": "",
+      "revman": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015016.pub2/media/CDSR/CD015016/table_n/CD015016StatsDataOnly.rm5",
+      "revman_md5": "",
+      "references": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015016.pub2/references",
+      "n_studies_included": 7,
+      "n_references_included": 8,
+      "unique_references_included": 8,
+      "unique_references_excluded": 17,
+      "n_comparisons": 1,
+      "n_outcomes": 1,
+      "n_outcomes_and_subgroups": 6,
+      "avg_studies_for_outcome": 1.8333333333333333,
+      "cochrane_id": "CD015016",
+      "dataset_id": 9,
+      "used_in": [
+        "pcs"
+      ],
+      "dataset_split": "test"
+    },
+    {
+      "title": "Experiences of conditional and unconditional cash transfers intended for improving health outcomes and health service use: a qualitative evidence synthesis",
+      "doi": "https://doi.org/10.1002/14651858.CD013635.pub2",
+      "review_id": "CD013635",
+      "source": "Cochrane",
+      "versions": {
+        "1": "https://doi.org/10.1002/14651858.CD013635",
+        "2": "https://doi.org/10.1002/14651858.CD013635.pub2"
+      },
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013635.pub2",
+      "pdf": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013635.pub2/pdf/CDSR/CD013635/CD013635.pdf",
+      "pdf_md5": "",
+      "revman": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013635.pub2/media/CDSR/CD013635/table_n/CD013635StatsDataOnly.rm5",
+      "revman_md5": "",
+      "references": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013635.pub2/references",
+      "n_studies_included": 127,
+      "n_references_included": 127,
+      "unique_references_included": 127,
+      "unique_references_excluded": 109,
+      "n_comparisons": 0,
+      "n_outcomes": 0,
+      "n_outcomes_and_subgroups": 0,
+      "avg_studies_for_outcome": 0,
+      "cochrane_id": "CD013635",
+      "dataset_id": 10,
+      "used_in": [
+        "pcs"
+      ],
+      "dataset_split": "test"
+    },
+    {
+      "title": "Consumers\u2019 and health providers\u2019 views and perceptions of partnering to improve health services design, delivery and evaluation: a co\u2010produced qualitative evidence synthesis",
+      "doi": "https://doi.org/10.1002/14651858.CD013274.pub2",
+      "review_id": "CD013274",
+      "source": "Cochrane",
+      "versions": {
+        "1": "https://doi.org/10.1002/14651858.CD013274",
+        "2": "https://doi.org/10.1002/14651858.CD013274.pub2"
+      },
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013274.pub2",
+      "pdf": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013274.pub2/pdf/CDSR/CD013274/CD013274.pdf",
+      "pdf_md5": "",
+      "revman": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013274.pub2/media/CDSR/CD013274/table_n/CD013274StatsDataOnly.rm5",
+      "revman_md5": "",
+      "references": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013274.pub2/references",
+      "n_studies_included": 33,
+      "n_references_included": 43,
+      "unique_references_included": 43,
+      "unique_references_excluded": 426,
+      "n_comparisons": 0,
+      "n_outcomes": 0,
+      "n_outcomes_and_subgroups": 0,
+      "avg_studies_for_outcome": 0,
+      "cochrane_id": "CD013274",
+      "dataset_id": 11,
+      "used_in": [
+        "pcs"
+      ],
+      "dataset_split": "test"
+    },
+    {
+      "title": "Non\u2010pharmacological interventions for persistent postural\u2010perceptual dizziness (PPPD)",
+      "doi": "https://doi.org/10.1002/14651858.CD015333.pub2",
+      "review_id": "CD015333",
+      "source": "Cochrane",
+      "versions": {
+        "1": "https://doi.org/10.1002/14651858.CD015333",
+        "2": "https://doi.org/10.1002/14651858.CD015333.pub2"
+      },
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015333.pub2",
+      "pdf": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015333.pub2/pdf/CDSR/CD015333/CD015333.pdf",
+      "pdf_md5": "",
+      "revman": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015333.pub2/media/CDSR/CD015333/table_n/CD015333StatsDataOnly.rm5",
+      "revman_md5": "a306520f2b53383ba74ebd5222851e11",
+      "references": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015333.pub2/references",
+      "n_studies_included": 1,
+      "n_references_included": 2,
+      "unique_references_included": 2,
+      "unique_references_excluded": 56,
+      "n_comparisons": 1,
+      "n_outcomes": 1,
+      "n_outcomes_and_subgroups": 14,
+      "avg_studies_for_outcome": 1.0,
+      "cochrane_id": "CD015333",
+      "dataset_id": 12,
+      "used_in": [
+        "pcs"
+      ],
+      "dataset_split": "test"
+    },
+    {
+      "title": "Pharmacological interventions for persistent postural\u2010perceptual dizziness (PPPD)",
+      "doi": "https://doi.org/10.1002/14651858.CD015188.pub2",
+      "review_id": "CD015188",
+      "source": "Cochrane",
+      "versions": {
+        "1": "https://doi.org/10.1002/14651858.CD015188",
+        "2": "https://doi.org/10.1002/14651858.CD015188.pub2"
+      },
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015188.pub2",
+      "pdf": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015188.pub2/pdf/CDSR/CD015188/CD015188.pdf",
+      "pdf_md5": "",
+      "revman": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015188.pub2/media/CDSR/CD015188/table_n/CD015188StatsDataOnly.rm5",
+      "revman_md5": "",
+      "references": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015188.pub2/references",
+      "n_studies_included": 0,
+      "n_references_included": 0,
+      "unique_references_included": 0,
+      "unique_references_excluded": 1,
+      "n_comparisons": 0,
+      "n_outcomes": 0,
+      "n_outcomes_and_subgroups": 0,
+      "avg_studies_for_outcome": 0,
+      "cochrane_id": "CD015188",
+      "dataset_id": 13,
+      "used_in": [
+        "pcs"
+      ],
+      "dataset_split": "test"
+    },
+    {
+      "title": "Intratympanic gentamicin for M\u00e9ni\u00e8re\u2019s disease",
+      "doi": "https://doi.org/10.1002/14651858.CD015246.pub2",
+      "review_id": "CD015246",
+      "source": "Cochrane",
+      "versions": {
+        "1": "https://doi.org/10.1002/14651858.CD015246",
+        "2": "https://doi.org/10.1002/14651858.CD015246.pub2"
+      },
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015246.pub2",
+      "pdf": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015246.pub2/pdf/CDSR/CD015246/CD015246.pdf",
+      "pdf_md5": "",
+      "revman": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015246.pub2/media/CDSR/CD015246/table_n/CD015246StatsDataOnly.rm5",
+      "revman_md5": "8e37687106d32730cc36113aab6f17a8",
+      "references": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015246.pub2/references",
+      "n_studies_included": 5,
+      "n_references_included": 6,
+      "unique_references_included": 6,
+      "unique_references_excluded": 12,
+      "n_comparisons": 1,
+      "n_outcomes": 1,
+      "n_outcomes_and_subgroups": 11,
+      "avg_studies_for_outcome": 1.2727272727272727,
+      "cochrane_id": "CD015246",
+      "dataset_id": 14,
+      "used_in": [
+        "pcs"
+      ],
+      "dataset_split": "test"
+    },
+    {
+      "title": "Intratympanic corticosteroids for M\u00e9ni\u00e8re\u2019s disease",
+      "doi": "https://doi.org/10.1002/14651858.CD015245.pub2",
+      "review_id": "CD015245",
+      "source": "Cochrane",
+      "versions": {
+        "1": "https://doi.org/10.1002/14651858.CD015245",
+        "2": "https://doi.org/10.1002/14651858.CD015245.pub2"
+      },
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015245.pub2",
+      "pdf": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015245.pub2/pdf/CDSR/CD015245/CD015245.pdf",
+      "pdf_md5": "",
+      "revman": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015245.pub2/media/CDSR/CD015245/table_n/CD015245StatsDataOnly.rm5",
+      "revman_md5": "",
+      "references": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015245.pub2/references",
+      "n_studies_included": 10,
+      "n_references_included": 23,
+      "unique_references_included": 22,
+      "unique_references_excluded": 17,
+      "n_comparisons": 1,
+      "n_outcomes": 1,
+      "n_outcomes_and_subgroups": 34,
+      "avg_studies_for_outcome": 2.0,
+      "cochrane_id": "CD015245",
+      "dataset_id": 15,
+      "used_in": [
+        "pcs"
+      ],
+      "dataset_split": "test"
+    },
+    {
+      "title": "Lifestyle and dietary interventions for M\u00e9ni\u00e8re\u2019s disease",
+      "doi": "https://doi.org/10.1002/14651858.CD015244.pub2",
+      "review_id": "CD015244",
+      "source": "Cochrane",
+      "versions": {
+        "1": "https://doi.org/10.1002/14651858.CD015244",
+        "2": "https://doi.org/10.1002/14651858.CD015244.pub2"
+      },
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015244.pub2",
+      "pdf": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015244.pub2/pdf/CDSR/CD015244/CD015244.pdf",
+      "pdf_md5": "fc53da824fe4d249c00e70c807d1d801",
+      "revman": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015244.pub2/media/CDSR/CD015244/table_n/CD015244StatsDataOnly.rm5",
+      "revman_md5": "",
+      "references": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015244.pub2/references",
+      "n_studies_included": 2,
+      "n_references_included": 4,
+      "unique_references_included": 4,
+      "unique_references_excluded": 18,
+      "n_comparisons": 3,
+      "n_outcomes": 1,
+      "n_outcomes_and_subgroups": 7,
+      "avg_studies_for_outcome": 1.0,
+      "cochrane_id": "CD015244",
+      "dataset_id": 16,
+      "used_in": [
+        "pcs"
+      ],
+      "dataset_split": "test"
+    },
+    {
+      "title": "Surgical interventions for M\u00e9ni\u00e8re\u2019s disease",
+      "doi": "https://doi.org/10.1002/14651858.CD015249.pub2",
+      "review_id": "CD015249",
+      "source": "Cochrane",
+      "versions": {
+        "1": "https://doi.org/10.1002/14651858.CD015249",
+        "2": "https://doi.org/10.1002/14651858.CD015249.pub2"
+      },
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015249.pub2",
+      "pdf": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015249.pub2/pdf/CDSR/CD015249/CD015249.pdf",
+      "pdf_md5": "",
+      "revman": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015249.pub2/media/CDSR/CD015249/table_n/CD015249StatsDataOnly.rm5",
+      "revman_md5": "",
+      "references": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015249.pub2/references",
+      "n_studies_included": 2,
+      "n_references_included": 10,
+      "unique_references_included": 10,
+      "unique_references_excluded": 22,
+      "n_comparisons": 2,
+      "n_outcomes": 1,
+      "n_outcomes_and_subgroups": 10,
+      "avg_studies_for_outcome": 1.0,
+      "cochrane_id": "CD015249",
+      "dataset_id": 17,
+      "used_in": [
+        "pcs"
+      ],
+      "dataset_split": "test"
+    },
+    {
+      "title": "Positive pressure therapy for M\u00e9ni\u00e8re\u2019s disease",
+      "doi": "https://doi.org/10.1002/14651858.CD015248.pub2",
+      "review_id": "CD015248",
+      "source": "Cochrane",
+      "versions": {
+        "1": "https://doi.org/10.1002/14651858.CD015248",
+        "2": "https://doi.org/10.1002/14651858.CD015248.pub2"
+      },
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015248.pub2",
+      "pdf": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015248.pub2/pdf/CDSR/CD015248/CD015248.pdf",
+      "pdf_md5": "",
+      "revman": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015248.pub2/media/CDSR/CD015248/table_n/CD015248StatsDataOnly.rm5",
+      "revman_md5": "aba7e466a96d600dbd098de8514b81e4",
+      "references": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015248.pub2/references",
+      "n_studies_included": 3,
+      "n_references_included": 6,
+      "unique_references_included": 6,
+      "unique_references_excluded": 13,
+      "n_comparisons": 1,
+      "n_outcomes": 1,
+      "n_outcomes_and_subgroups": 5,
+      "avg_studies_for_outcome": 1.6,
+      "cochrane_id": "CD015248",
+      "dataset_id": 18,
+      "used_in": [
+        "pcs"
+      ],
+      "dataset_split": "test"
+    },
+    {
+      "title": "Systemic pharmacological interventions for M\u00e9ni\u00e8re\u2019s disease",
+      "doi": "https://doi.org/10.1002/14651858.CD015171.pub2",
+      "review_id": "CD015171",
+      "source": "Cochrane",
+      "versions": {
+        "1": "https://doi.org/10.1002/14651858.CD015171",
+        "2": "https://doi.org/10.1002/14651858.CD015171.pub2"
+      },
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015171.pub2",
+      "pdf": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015171.pub2/pdf/CDSR/CD015171/CD015171.pdf",
+      "pdf_md5": "",
+      "revman": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015171.pub2/media/CDSR/CD015171/table_n/CD015171StatsDataOnly.rm5",
+      "revman_md5": "",
+      "references": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015171.pub2/references",
+      "n_studies_included": 10,
+      "n_references_included": 14,
+      "unique_references_included": 14,
+      "unique_references_excluded": 65,
+      "n_comparisons": 4,
+      "n_outcomes": 1,
+      "n_outcomes_and_subgroups": 51,
+      "avg_studies_for_outcome": 1.411764705882353,
+      "cochrane_id": "CD015171",
+      "dataset_id": 19,
+      "used_in": [
+        "pcs"
+      ],
+      "dataset_split": "test"
+    },
+    {
+      "title": "Prognostic factors for the development and progression of proliferative diabetic retinopathy in people with diabetic retinopathy",
+      "doi": "https://doi.org/10.1002/14651858.CD013775.pub2",
+      "review_id": "CD013775",
+      "source": "Cochrane",
+      "versions": {
+        "1": "https://doi.org/10.1002/14651858.CD013775",
+        "2": "https://doi.org/10.1002/14651858.CD013775.pub2"
+      },
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013775.pub2",
+      "pdf": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013775.pub2/pdf/CDSR/CD013775/CD013775.pdf",
+      "pdf_md5": "",
+      "revman": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013775.pub2/media/CDSR/CD013775/table_n/CD013775StatsDataOnly.rm5",
+      "revman_md5": "",
+      "references": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013775.pub2/references",
+      "n_studies_included": 59,
+      "n_references_included": 91,
+      "unique_references_included": 91,
+      "unique_references_excluded": 165,
+      "n_comparisons": 0,
+      "n_outcomes": 0,
+      "n_outcomes_and_subgroups": 0,
+      "avg_studies_for_outcome": 0,
+      "cochrane_id": "CD013775",
+      "dataset_id": 20,
+      "used_in": [
+        "pcs"
+      ],
+      "dataset_split": "test"
+    },
+    {
+      "title": "Drugs to reduce bleeding and transfusion in major open vascular or endovascular surgery: a systematic review and network meta\u2010analysis",
+      "doi": "https://doi.org/10.1002/14651858.CD013649.pub2",
+      "review_id": "CD013649",
+      "source": "Cochrane",
+      "versions": {
+        "1": "https://doi.org/10.1002/14651858.CD013649",
+        "2": "https://doi.org/10.1002/14651858.CD013649.pub2"
+      },
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013649.pub2",
+      "pdf": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013649.pub2/pdf/CDSR/CD013649/CD013649.pdf",
+      "pdf_md5": "",
+      "revman": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013649.pub2/media/CDSR/CD013649/table_n/CD013649StatsDataOnly.rm5",
+      "revman_md5": "",
+      "references": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013649.pub2/references",
+      "n_studies_included": 22,
+      "n_references_included": 23,
+      "unique_references_included": 23,
+      "unique_references_excluded": 108,
+      "n_comparisons": 2,
+      "n_outcomes": 1,
+      "n_outcomes_and_subgroups": 66,
+      "avg_studies_for_outcome": 1.7575757575757576,
+      "cochrane_id": "CD013649",
+      "dataset_id": 21,
+      "used_in": [
+        "pcs"
+      ],
+      "dataset_split": "test"
+    },
+    {
+      "title": "Interventions for myopia control in children: a living systematic review and network meta\u2010analysis",
+      "doi": "https://doi.org/10.1002/14651858.CD014758.pub2",
+      "review_id": "CD014758",
+      "source": "Cochrane",
+      "versions": {
+        "1": "https://doi.org/10.1002/14651858.CD014758",
+        "2": "https://doi.org/10.1002/14651858.CD014758.pub2",
+        "3": "https://doi.org/10.1002/14651858.CD014758.pub3"
+      },
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014758.pub2",
+      "pdf": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014758.pub2/pdf/CDSR/CD014758/CD014758.pdf",
+      "pdf_md5": "",
+      "revman": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014758.pub2/media/CDSR/CD014758/table_n/CD014758StatsDataOnly.rm5",
+      "revman_md5": "e622011e5cd655866d1ca7d928fcddd2",
+      "references": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014758.pub2/references",
+      "n_studies_included": 64,
+      "n_references_included": 225,
+      "unique_references_included": 224,
+      "unique_references_excluded": 179,
+      "n_comparisons": 9,
+      "n_outcomes": 1,
+      "n_outcomes_and_subgroups": 64,
+      "avg_studies_for_outcome": 3.5,
+      "cochrane_id": "CD014758",
+      "dataset_id": 22,
+      "used_in": [
+        "pcs"
+      ],
+      "dataset_split": "test"
+    },
+    {
+      "title": "Interventions to improve sanitation for preventing diarrhoea",
+      "doi": "https://doi.org/10.1002/14651858.CD013328.pub2",
+      "review_id": "CD013328",
+      "source": "Cochrane",
+      "versions": {
+        "1": "https://doi.org/10.1002/14651858.CD013328",
+        "2": "https://doi.org/10.1002/14651858.CD013328.pub2"
+      },
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013328.pub2",
+      "pdf": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013328.pub2/pdf/CDSR/CD013328/CD013328.pdf",
+      "pdf_md5": "",
+      "revman": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013328.pub2/media/CDSR/CD013328/table_n/CD013328StatsDataOnly.rm5",
+      "revman_md5": "",
+      "references": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013328.pub2/references",
+      "n_studies_included": 51,
+      "n_references_included": 53,
+      "unique_references_included": 50,
+      "unique_references_excluded": 23,
+      "n_comparisons": 8,
+      "n_outcomes": 1,
+      "n_outcomes_and_subgroups": 131,
+      "avg_studies_for_outcome": 7.404580152671755,
+      "cochrane_id": "CD013328",
+      "dataset_id": 23,
+      "used_in": [
+        "pcs"
+      ],
+      "dataset_split": "test"
+    },
+    {
+      "title": "Intravenous immunoglobulin for the treatment of Kawasaki disease",
+      "doi": "https://doi.org/10.1002/14651858.CD014884.pub2",
+      "review_id": "CD014884",
+      "source": "Cochrane",
+      "versions": {
+        "1": "https://doi.org/10.1002/14651858.CD014884",
+        "2": "https://doi.org/10.1002/14651858.CD014884.pub2"
+      },
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014884.pub2",
+      "pdf": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014884.pub2/pdf/CDSR/CD014884/CD014884.pdf",
+      "pdf_md5": "",
+      "revman": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014884.pub2/media/CDSR/CD014884/table_n/CD014884StatsDataOnly.rm5",
+      "revman_md5": "7ace1a2ce6f9437f1b8956aa091d0469",
+      "references": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014884.pub2/references",
+      "n_studies_included": 31,
+      "n_references_included": 57,
+      "unique_references_included": 49,
+      "unique_references_excluded": 16,
+      "n_comparisons": 8,
+      "n_outcomes": 1,
+      "n_outcomes_and_subgroups": 137,
+      "avg_studies_for_outcome": 2.423357664233577,
+      "cochrane_id": "CD014884",
+      "dataset_id": 24,
+      "used_in": [
+        "pcs"
+      ],
+      "dataset_split": "test"
+    },
+    {
+      "title": "Inspiratory muscle training, with or without concomitant pulmonary rehabilitation, for chronic obstructive pulmonary disease (COPD)",
+      "doi": "https://doi.org/10.1002/14651858.CD013778.pub2",
+      "review_id": "CD013778",
+      "source": "Cochrane",
+      "versions": {
+        "1": "https://doi.org/10.1002/14651858.CD013778",
+        "2": "https://doi.org/10.1002/14651858.CD013778.pub2"
+      },
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013778.pub2",
+      "pdf": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013778.pub2/pdf/CDSR/CD013778/CD013778.pdf",
+      "pdf_md5": "",
+      "revman": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013778.pub2/media/CDSR/CD013778/table_n/CD013778StatsDataOnly.rm5",
+      "revman_md5": "9a4cee1c123dcbe7a1fe11c9b8dd1ac9",
+      "references": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013778.pub2/references",
+      "n_studies_included": 55,
+      "n_references_included": 92,
+      "unique_references_included": 92,
+      "unique_references_excluded": 107,
+      "n_comparisons": 2,
+      "n_outcomes": 1,
+      "n_outcomes_and_subgroups": 90,
+      "avg_studies_for_outcome": 7.6,
+      "cochrane_id": "CD013778",
+      "dataset_id": 25,
+      "used_in": [
+        "pcs"
+      ],
+      "dataset_split": "test"
+    },
+    {
+      "title": "Treatment of enteric fever (typhoid and paratyphoid fever) with cephalosporins",
+      "doi": "https://doi.org/10.1002/14651858.CD010452.pub2",
+      "review_id": "CD010452",
+      "source": "Cochrane",
+      "versions": {
+        "1": "https://doi.org/10.1002/14651858.CD010452",
+        "2": "https://doi.org/10.1002/14651858.CD010452.pub2"
+      },
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010452.pub2",
+      "pdf": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010452.pub2/pdf/CDSR/CD010452/CD010452.pdf",
+      "pdf_md5": "",
+      "revman": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010452.pub2/media/CDSR/CD010452/table_n/CD010452StatsDataOnly.rm5",
+      "revman_md5": "",
+      "references": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010452.pub2/references",
+      "n_studies_included": 27,
+      "n_references_included": 29,
+      "unique_references_included": 29,
+      "unique_references_excluded": 30,
+      "n_comparisons": 11,
+      "n_outcomes": 1,
+      "n_outcomes_and_subgroups": 65,
+      "avg_studies_for_outcome": 1.876923076923077,
+      "cochrane_id": "CD010452",
+      "dataset_id": 26,
+      "used_in": [
+        "pcs"
+      ],
+      "dataset_split": "test"
+    },
+    {
+      "title": "Antipsychotic dose reduction compared to dose continuation for people with schizophrenia",
+      "doi": "https://doi.org/10.1002/14651858.CD014384.pub2",
+      "review_id": "CD014384",
+      "source": "Cochrane",
+      "versions": {
+        "1": "https://doi.org/10.1002/14651858.CD014384",
+        "2": "https://doi.org/10.1002/14651858.CD014384.pub2"
+      },
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014384.pub2",
+      "pdf": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014384.pub2/pdf/CDSR/CD014384/CD014384.pdf",
+      "pdf_md5": "",
+      "revman": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014384.pub2/media/CDSR/CD014384/table_n/CD014384StatsDataOnly.rm5",
+      "revman_md5": "c1d2c18774e3a681772813ca337aea1e",
+      "references": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014384.pub2/references",
+      "n_studies_included": 25,
+      "n_references_included": 87,
+      "unique_references_included": 86,
+      "unique_references_excluded": 73,
+      "n_comparisons": 4,
+      "n_outcomes": 1,
+      "n_outcomes_and_subgroups": 471,
+      "avg_studies_for_outcome": 2.9957537154989384,
+      "cochrane_id": "CD014384",
+      "dataset_id": 27,
+      "used_in": [
+        "pcs"
+      ],
+      "dataset_split": "test"
+    },
+    {
+      "title": "Nirmatrelvir combined with ritonavir for preventing and treating COVID\u201019",
+      "doi": "https://doi.org/10.1002/14651858.CD015395.pub2",
+      "review_id": "CD015395",
+      "source": "Cochrane",
+      "versions": {
+        "1": "https://doi.org/10.1002/14651858.CD015395",
+        "2": "https://doi.org/10.1002/14651858.CD015395.pub2",
+        "3": "https://doi.org/10.1002/14651858.CD015395.pub3"
+      },
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015395.pub2",
+      "pdf": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015395.pub2/pdf/CDSR/CD015395/CD015395.pdf",
+      "pdf_md5": "",
+      "revman": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015395.pub2/media/CDSR/CD015395/table_n/CD015395StatsDataOnly.rm5",
+      "revman_md5": "",
+      "references": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015395.pub2/references",
+      "n_studies_included": 1,
+      "n_references_included": 4,
+      "unique_references_included": 4,
+      "unique_references_excluded": 7,
+      "n_comparisons": 1,
+      "n_outcomes": 1,
+      "n_outcomes_and_subgroups": 15,
+      "avg_studies_for_outcome": 0.9333333333333333,
+      "cochrane_id": "CD015395",
+      "dataset_id": 28,
+      "used_in": [
+        "pcs"
+      ],
+      "dataset_split": "test"
+    },
+    {
+      "title": "Antipsychotic polypharmacy reduction versus polypharmacy continuation for people with schizophrenia",
+      "doi": "https://doi.org/10.1002/14651858.CD014383.pub2",
+      "review_id": "CD014383",
+      "source": "Cochrane",
+      "versions": {
+        "1": "https://doi.org/10.1002/14651858.CD014383",
+        "2": "https://doi.org/10.1002/14651858.CD014383.pub2"
+      },
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014383.pub2",
+      "pdf": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014383.pub2/pdf/CDSR/CD014383/CD014383.pdf",
+      "pdf_md5": "",
+      "revman": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014383.pub2/media/CDSR/CD014383/table_n/CD014383StatsDataOnly.rm5",
+      "revman_md5": "1bda6cec2efb4a72adc1235c5d639248",
+      "references": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014383.pub2/references",
+      "n_studies_included": 5,
+      "n_references_included": 9,
+      "unique_references_included": 9,
+      "unique_references_excluded": 65,
+      "n_comparisons": 2,
+      "n_outcomes": 1,
+      "n_outcomes_and_subgroups": 62,
+      "avg_studies_for_outcome": 1.467741935483871,
+      "cochrane_id": "CD014383",
+      "dataset_id": 29,
+      "used_in": [
+        "pcs"
+      ],
+      "dataset_split": "test"
+    },
+    {
+      "title": "Accuracy of measures for antiretroviral adherence in people living with HIV",
+      "doi": "https://doi.org/10.1002/14651858.CD013080.pub2",
+      "review_id": "CD013080",
+      "source": "Cochrane",
+      "versions": {
+        "1": "https://doi.org/10.1002/14651858.CD013080",
+        "2": "https://doi.org/10.1002/14651858.CD013080.pub2"
+      },
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013080.pub2",
+      "pdf": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013080.pub2/pdf/CDSR/CD013080/CD013080.pdf",
+      "pdf_md5": "",
+      "revman": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013080.pub2/media/CDSR/CD013080/table_n/CD013080StatsDataOnly.rm5",
+      "revman_md5": "",
+      "references": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013080.pub2/references",
+      "n_studies_included": 51,
+      "n_references_included": 51,
+      "unique_references_included": 51,
+      "unique_references_excluded": 0,
+      "n_comparisons": 0,
+      "n_outcomes": 0,
+      "n_outcomes_and_subgroups": 0,
+      "avg_studies_for_outcome": 0,
+      "cochrane_id": "CD013080",
+      "dataset_id": 30,
+      "used_in": [
+        "pcs"
+      ],
+      "dataset_split": "test"
+    },
+    {
+      "title": "Intratympanic corticosteroids for sudden sensorineural hearing loss",
+      "doi": "https://doi.org/10.1002/14651858.CD008080.pub2",
+      "review_id": "CD008080",
+      "source": "Cochrane",
+      "versions": {
+        "1": "https://doi.org/10.1002/14651858.CD008080",
+        "2": "https://doi.org/10.1002/14651858.CD008080.pub2"
+      },
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008080.pub2",
+      "pdf": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008080.pub2/pdf/CDSR/CD008080/CD008080.pdf",
+      "pdf_md5": "",
+      "revman": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008080.pub2/media/CDSR/CD008080/table_n/CD008080StatsDataOnly.rm5",
+      "revman_md5": "",
+      "references": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008080.pub2/references",
+      "n_studies_included": 30,
+      "n_references_included": 33,
+      "unique_references_included": 33,
+      "unique_references_excluded": 20,
+      "n_comparisons": 4,
+      "n_outcomes": 1,
+      "n_outcomes_and_subgroups": 67,
+      "avg_studies_for_outcome": 2.5074626865671643,
+      "cochrane_id": "CD008080",
+      "dataset_id": 31,
+      "used_in": [
+        "pcs"
+      ],
+      "dataset_split": "test"
+    },
+    {
+      "title": "Interventions to improve water, sanitation, and hygiene for preventing soil\u2010transmitted helminth infection",
+      "doi": "https://doi.org/10.1002/14651858.CD012199.pub2",
+      "review_id": "CD012199",
+      "source": "Cochrane",
+      "versions": {
+        "1": "https://doi.org/10.1002/14651858.CD012199",
+        "2": "https://doi.org/10.1002/14651858.CD012199.pub2"
+      },
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012199.pub2",
+      "pdf": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012199.pub2/pdf/CDSR/CD012199/CD012199.pdf",
+      "pdf_md5": "",
+      "revman": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012199.pub2/media/CDSR/CD012199/table_n/CD012199StatsDataOnly.rm5",
+      "revman_md5": "",
+      "references": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012199.pub2/references",
+      "n_studies_included": 32,
+      "n_references_included": 45,
+      "unique_references_included": 45,
+      "unique_references_excluded": 107,
+      "n_comparisons": 1,
+      "n_outcomes": 1,
+      "n_outcomes_and_subgroups": 151,
+      "avg_studies_for_outcome": 5.642384105960265,
+      "cochrane_id": "CD012199",
+      "dataset_id": 32,
+      "used_in": [
+        "pcs"
+      ],
+      "dataset_split": "test"
+    }
+  ]
+}

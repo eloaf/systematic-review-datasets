@@ -1,0 +1,18 @@
+Outcome or subgroup title,No. of studies,No. of participants,Statistical method,Effect size,comparison_name,comparison_id,effect_size,lower_ci,upper_ci,outcome_id,subgroup_id,outcome_name,subgroup_name
+1.1 Improvement in vertigo (global score) Show forest plot,2,,"Risk Ratio (M‐H, Random, 95% CI)",Subtotals only,Triptans versus placebo,1,,,,1,1,,Improvement in vertigo (global score) Show forest plot
+1.1.1 Up to 2 hours,2,262,"Risk Ratio (M‐H, Random, 95% CI)","0.84 [0.66, 1.07]",Triptans versus placebo,1,0.84,0.66,1.07,1,1,,Up to 2 hours
+1.1.2 > 12 hours,1,170,"Risk Ratio (M‐H, Random, 95% CI)","1.01 [0.90, 1.12]",Triptans versus placebo,1,1.01,0.9,1.12,1,1,,> 12 hours
+1.2 Improvement in headache Show forest plot,2,,"Risk Ratio (M‐H, Random, 95% CI)",Subtotals only,Triptans versus placebo,1,,,,1,2,,Improvement in headache Show forest plot
+1.2.1 Up to 2 hours,2,248,"Risk Ratio (M‐H, Random, 95% CI)","0.69 [0.49, 0.96]",Triptans versus placebo,1,0.69,0.49,0.96,1,2,,Up to 2 hours
+1.2.2 > 12 hours,1,171,"Risk Ratio (M‐H, Random, 95% CI)","1.16 [0.99, 1.37]",Triptans versus placebo,1,1.16,0.99,1.37,1,2,,> 12 hours
+1.3 Improvement in other migrainous symptoms Show forest plot,1,,"Risk Ratio (M‐H, Random, 95% CI)",Subtotals only,Triptans versus placebo,1,,,,1,3,,Improvement in other migrainous symptoms Show forest plot
+1.3.1 Nausea and vomiting at up to 2 hours,1,239,"Risk Ratio (M‐H, Random, 95% CI)","0.80 [0.62, 1.03]",Triptans versus placebo,1,0.8,0.62,1.03,1,3,,Nausea and vomiting at up to 2 hours
+1.3.2 Nausea and vomiting at > 12 to 72 hours,1,170,"Risk Ratio (M‐H, Random, 95% CI)","1.02 [0.93, 1.11]",Triptans versus placebo,1,1.02,0.93,1.11,1,3,,Nausea and vomiting at > 12 to 72 hours
+1.3.3 Photo‐ and phonophobia at up to 2 hours,1,240,"Risk Ratio (M‐H, Random, 95% CI)","1.05 [0.75, 1.47]",Triptans versus placebo,1,1.05,0.75,1.47,1,3,,Photo‐ and phonophobia at up to 2 hours
+1.3.4 Photo‐ and phonophobia at > 12 to 72 hours,1,171,"Risk Ratio (M‐H, Random, 95% CI)","1.20 [1.01, 1.42]",Triptans versus placebo,1,1.2,1.01,1.42,1,3,,Photo‐ and phonophobia at > 12 to 72 hours
+1.4 Other adverse effects Show forest plot,1,,"Risk Ratio (M‐H, Random, 95% CI)",Subtotals only,Triptans versus placebo,1,,,,1,4,,Other adverse effects Show forest plot
+1.4.1 Gastrointestinal disturbance,1,114,"Risk Ratio (M‐H, Random, 95% CI)","1.24 [0.60, 2.56]",Triptans versus placebo,1,1.24,0.6,2.56,1,4,,Gastrointestinal disturbance
+1.4.2 Sleep disturbance,1,114,"Risk Ratio (M‐H, Random, 95% CI)","2.41 [1.43, 4.07]",Triptans versus placebo,1,2.41,1.43,4.07,1,4,,Sleep disturbance
+1.4.3 Cardiovascular side effects,1,114,"Risk Ratio (M‐H, Random, 95% CI)","0.87 [0.22, 3.44]",Triptans versus placebo,1,0.87,0.22,3.44,1,4,,Cardiovascular side effects
+"1.4.4 Paraesthesia, flushing, warm or hot sensations",1,114,"Risk Ratio (M‐H, Random, 95% CI)","0.73 [0.25, 2.14]",Triptans versus placebo,1,0.73,0.25,2.14,1,4,,"Paraesthesia, flushing, warm or hot sensations"
+1.4.5 Headache,1,114,"Risk Ratio (M‐H, Random, 95% CI)","0.75 [0.35, 1.60]",Triptans versus placebo,1,0.75,0.35,1.6,1,4,,Headache

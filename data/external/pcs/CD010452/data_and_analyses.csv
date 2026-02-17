@@ -1,0 +1,66 @@
+Outcome or subgroup title,No. of studies,No. of participants,Statistical method,Effect size,comparison_name,comparison_id,effect_size,lower_ci,upper_ci,outcome_id,subgroup_id,outcome_name,subgroup_name
+1.1 Clinical failure Show forest plot,3,425,"Risk Ratio (M‐H, Random, 95% CI)","13.39 [3.24, 55.39]",Cefixime versus fluoroquinolone,1,13.39,3.24,55.39,1,1,,Clinical failure Show forest plot
+1.1.1 Cefixime versus ofloxacin,2,173,"Risk Ratio (M‐H, Random, 95% CI)","6.91 [0.90, 52.77]",Cefixime versus fluoroquinolone,1,6.91,0.9,52.77,1,1,,Cefixime versus ofloxacin
+1.1.2 Cefixime versus gatifloxacin,1,158,"Risk Ratio (M‐H, Random, 95% CI)","25.14 [3.46, 182.78]",Cefixime versus fluoroquinolone,1,25.14,3.46,182.78,1,1,,Cefixime versus gatifloxacin
+1.1.3 Cefixime versus ciprofloxacin,1,94,"Risk Ratio (M‐H, Random, 95% CI)",Not estimable,Cefixime versus fluoroquinolone,1,,,,1,1,,Cefixime versus ciprofloxacin
+1.2 Microbiological failure Show forest plot,3,425,"Risk Ratio (M‐H, Fixed, 95% CI)","4.07 [0.46, 36.41]",Cefixime versus fluoroquinolone,1,4.07,0.46,36.41,1,2,,Microbiological failure Show forest plot
+1.2.1 Cefixime versus ofloxacin,2,173,"Risk Ratio (M‐H, Fixed, 95% CI)","4.33 [0.21, 87.56]",Cefixime versus fluoroquinolone,1,4.33,0.21,87.56,1,2,,Cefixime versus ofloxacin
+1.2.2 Cefixime versus gatifloxacin,1,158,"Risk Ratio (M‐H, Fixed, 95% CI)","3.76 [0.16, 90.92]",Cefixime versus fluoroquinolone,1,3.76,0.16,90.92,1,2,,Cefixime versus gatifloxacin
+1.2.3 Cefixime versus ciprofloxacin,1,94,"Risk Ratio (M‐H, Fixed, 95% CI)",Not estimable,Cefixime versus fluoroquinolone,1,,,,1,2,,Cefixime versus ciprofloxacin
+1.3 Relapse Show forest plot,3,405,"Risk Ratio (M‐H, Fixed, 95% CI)","4.45 [1.11, 17.84]",Cefixime versus fluoroquinolone,1,4.45,1.11,17.84,1,3,,Relapse Show forest plot
+1.3.1 Cefixime versus ofloxacin,2,173,"Risk Ratio (M‐H, Fixed, 95% CI)","2.60 [0.11, 62.01]",Cefixime versus fluoroquinolone,1,2.6,0.11,62.01,1,3,,Cefixime versus ofloxacin
+1.3.2 Cefixime versus gatifloxacin,1,138,"Risk Ratio (M‐H, Fixed, 95% CI)","5.12 [1.07, 24.42]",Cefixime versus fluoroquinolone,1,5.12,1.07,24.42,1,3,,Cefixime versus gatifloxacin
+1.3.3 Cefixime versus ciprofloxacin,1,94,"Risk Ratio (M‐H, Fixed, 95% CI)",Not estimable,Cefixime versus fluoroquinolone,1,,,,1,3,,Cefixime versus ciprofloxacin
+1.4 Time to defervescence Show forest plot,3,425,"Mean Difference (IV, Random, 95% CI)","1.74 [0.50, 2.98]",Cefixime versus fluoroquinolone,1,1.74,0.5,2.98,1,4,,Time to defervescence Show forest plot
+1.4.1 Cefixime versus ciprofloxacin,1,94,"Mean Difference (IV, Random, 95% CI)","0.50 [‐0.02, 1.02]",Cefixime versus fluoroquinolone,1,0.5,-0.02,1.02,1,4,,Cefixime versus ciprofloxacin
+1.4.2 Cefixime versus ofloxacin,2,173,"Mean Difference (IV, Random, 95% CI)","2.53 [‐0.53, 5.59]",Cefixime versus fluoroquinolone,1,2.53,-0.53,5.59,1,4,,Cefixime versus ofloxacin
+1.4.3 Cefixime versus gatifloxacin,1,158,"Mean Difference (IV, Random, 95% CI)","1.61 [0.79, 2.43]",Cefixime versus fluoroquinolone,1,1.61,0.79,2.43,1,4,,Cefixime versus gatifloxacin
+2.1 Clinical failure Show forest plot,3,,"Risk Ratio (M‐H, Fixed, 95% CI)",Subtotals only,Ceftriaxone versus azithromycin,2,,,,2,1,,Clinical failure Show forest plot
+2.1.1 Ceftriaxone versus azithromycin,3,196,"Risk Ratio (M‐H, Fixed, 95% CI)","0.42 [0.11, 1.57]",Ceftriaxone versus azithromycin,2,0.42,0.11,1.57,2,1,,Ceftriaxone versus azithromycin
+2.2 Microbiological failure Show forest plot,3,196,"Risk Ratio (M‐H, Fixed, 95% CI)","1.95 [0.36, 10.64]",Ceftriaxone versus azithromycin,2,1.95,0.36,10.64,2,2,,Microbiological failure Show forest plot
+2.3 Relapse Show forest plot,3,185,"Risk Ratio (M‐H, Fixed, 95% CI)","10.05 [1.93, 52.38]",Ceftriaxone versus azithromycin,2,10.05,1.93,52.38,2,3,,Relapse Show forest plot
+2.4 Time to defervescence Show forest plot,3,196,"Mean Difference (IV, Fixed, 95% CI)","‐0.52 [‐0.91, ‐0.12]",Ceftriaxone versus azithromycin,2,-0.52,-0.91,-0.12,2,4,,Time to defervescence Show forest plot
+3.1 Clinical failure Show forest plot,4,359,"Risk Ratio (M‐H, Random, 95% CI)","3.77 [0.72, 19.81]",Ceftriaxone versus fluoroquinolone,3,3.77,0.72,19.81,3,1,,Clinical failure Show forest plot
+3.1.1 Ceftriaxone versus ciprofloxacin,1,42,"Risk Ratio (M‐H, Random, 95% CI)","11.87 [0.71, 198.13]",Ceftriaxone versus fluoroquinolone,3,11.87,0.71,198.13,3,1,,Ceftriaxone versus ciprofloxacin
+3.1.2 Ceftriaxone versus fleroxacin,1,31,"Risk Ratio (M‐H, Random, 95% CI)","5.31 [0.28, 102.38]",Ceftriaxone versus fluoroquinolone,3,5.31,0.28,102.38,3,1,,Ceftriaxone versus fleroxacin
+3.1.3 Ceftriaxone versus ofloxacin,1,47,"Risk Ratio (M‐H, Random, 95% CI)","13.27 [0.80, 219.78]",Ceftriaxone versus fluoroquinolone,3,13.27,0.8,219.78,3,1,,Ceftriaxone versus ofloxacin
+3.1.4 Ceftriaxone versus gatifloxacin,1,239,"Risk Ratio (M‐H, Random, 95% CI)","1.06 [0.59, 1.93]",Ceftriaxone versus fluoroquinolone,3,1.06,0.59,1.93,3,1,,Ceftriaxone versus gatifloxacin
+3.2 Microbiological failure Show forest plot,3,316,"Risk Ratio (M‐H, Fixed, 95% CI)","1.65 [0.40, 6.83]",Ceftriaxone versus fluoroquinolone,3,1.65,0.4,6.83,3,2,,Microbiological failure Show forest plot
+3.2.1 Ceftriaxone versus fleroxacin,1,30,"Risk Ratio (M‐H, Fixed, 95% CI)","3.40 [0.15, 77.34]",Ceftriaxone versus fluoroquinolone,3,3.4,0.15,77.34,3,2,,Ceftriaxone versus fleroxacin
+3.2.2 Ceftriaxone versus ofloxacin,1,47,"Risk Ratio (M‐H, Fixed, 95% CI)","4.42 [0.22, 87.44]",Ceftriaxone versus fluoroquinolone,3,4.42,0.22,87.44,3,2,,Ceftriaxone versus ofloxacin
+3.2.3 Ceftriaxone versus gatifloxacin,1,239,"Risk Ratio (M‐H, Fixed, 95% CI)","0.50 [0.05, 5.49]",Ceftriaxone versus fluoroquinolone,3,0.5,0.05,5.49,3,2,,Ceftriaxone versus gatifloxacin
+3.3 Relapse Show forest plot,3,297,"Risk Ratio (M‐H, Fixed, 95% CI)","0.95 [0.31, 2.92]",Ceftriaxone versus fluoroquinolone,3,0.95,0.31,2.92,3,3,,Relapse Show forest plot
+3.3.1 Ceftriaxone versus ciprofloxacin,1,42,"Risk Ratio (M‐H, Fixed, 95% CI)","2.74 [0.12, 63.63]",Ceftriaxone versus fluoroquinolone,3,2.74,0.12,63.63,3,3,,Ceftriaxone versus ciprofloxacin
+3.3.2 Ceftriaxone versus ofloxacin,1,47,"Risk Ratio (M‐H, Fixed, 95% CI)","2.65 [0.11, 62.00]",Ceftriaxone versus fluoroquinolone,3,2.65,0.11,62.0,3,3,,Ceftriaxone versus ofloxacin
+3.3.3 Ceftriaxone versus gatifloxacin,1,208,"Risk Ratio (M‐H, Fixed, 95% CI)","0.59 [0.14, 2.40]",Ceftriaxone versus fluoroquinolone,3,0.59,0.14,2.4,3,3,,Ceftriaxone versus gatifloxacin
+3.4 Time to defervescence Show forest plot,3,285,"Mean Difference (IV, Random, 95% CI)","2.73 [‐0.37, 5.84]",Ceftriaxone versus fluoroquinolone,3,2.73,-0.37,5.84,3,4,,Time to defervescence Show forest plot
+3.4.1 Ceftriaxone versus fleroxacin,1,29,"Mean Difference (IV, Random, 95% CI)","3.29 [1.40, 5.18]",Ceftriaxone versus fluoroquinolone,3,3.29,1.4,5.18,3,4,,Ceftriaxone versus fleroxacin
+3.4.2 Ceftrixaone versus ofloxacin,1,47,"Mean Difference (IV, Random, 95% CI)","4.79 [3.30, 6.28]",Ceftriaxone versus fluoroquinolone,3,4.79,3.3,6.28,3,4,,Ceftrixaone versus ofloxacin
+3.4.3 Ceftriaxone versus gatifloxacin,1,209,"Mean Difference (IV, Random, 95% CI)","0.30 [‐0.36, 0.96]",Ceftriaxone versus fluoroquinolone,3,0.3,-0.36,0.96,3,4,,Ceftriaxone versus gatifloxacin
+3.5 Convalescent faecal carriage Show forest plot,1,73,"Risk Ratio (M‐H, Fixed, 95% CI)","0.18 [0.01, 3.72]",Ceftriaxone versus fluoroquinolone,3,0.18,0.01,3.72,3,5,,Convalescent faecal carriage Show forest plot
+3.5.1 Ceftriaxone versus gatifloxacin,1,73,"Risk Ratio (M‐H, Fixed, 95% CI)","0.18 [0.01, 3.72]",Ceftriaxone versus fluoroquinolone,3,0.18,0.01,3.72,3,5,,Ceftriaxone versus gatifloxacin
+4.1 Clinical failure Show forest plot,2,143,"Risk Ratio (M‐H, Fixed, 95% CI)","1.00 [0.22, 4.49]",Ceftriaxone versus cefixime,4,1.0,0.22,4.49,4,1,,Clinical failure Show forest plot
+4.2 Microbiological failure Show forest plot,2,143,"Risk Ratio (M‐H, Fixed, 95% CI)","2.00 [0.19, 20.67]",Ceftriaxone versus cefixime,4,2.0,0.19,20.67,4,2,,Microbiological failure Show forest plot
+4.3 Relapse Show forest plot,2,143,"Risk Ratio (M‐H, Fixed, 95% CI)","1.36 [0.37, 4.98]",Ceftriaxone versus cefixime,4,1.36,0.37,4.98,4,3,,Relapse Show forest plot
+4.4 Time to defervescence Show forest plot,2,143,"Mean Difference (IV, Fixed, 95% CI)","‐1.48 [‐2.13, ‐0.83]",Ceftriaxone versus cefixime,4,-1.48,-2.13,-0.83,4,4,,Time to defervescence Show forest plot
+5.1 Clinical failure Show forest plot,7,387,"Risk Ratio (M‐H, Fixed, 95% CI)","1.43 [0.68, 3.00]",Ceftriaxone versus chloramphenicol,5,1.43,0.68,3.0,5,1,,Clinical failure Show forest plot
+5.2 Microbiological failure Show forest plot,7,387,"Risk Ratio (M‐H, Fixed, 95% CI)",Not estimable,Ceftriaxone versus chloramphenicol,5,,,,5,2,,Microbiological failure Show forest plot
+5.3 Relapse Show forest plot,7,365,"Risk Ratio (M‐H, Fixed, 95% CI)","0.45 [0.20, 1.04]",Ceftriaxone versus chloramphenicol,5,0.45,0.2,1.04,5,3,,Relapse Show forest plot
+5.4 Time to defervescence Show forest plot,1,55,"Mean Difference (IV, Random, 95% CI)","‐2.54 [‐3.13, ‐1.95]",Ceftriaxone versus chloramphenicol,5,-2.54,-3.13,-1.95,5,4,,Time to defervescence Show forest plot
+5.5 Convalescent faecal carriage Show forest plot,2,118,"Risk Ratio (M‐H, Fixed, 95% CI)","3.20 [0.34, 29.94]",Ceftriaxone versus chloramphenicol,5,3.2,0.34,29.94,5,5,,Convalescent faecal carriage Show forest plot
+6.1 Clinical failure Show forest plot,3,215,"Risk Ratio (M‐H, Fixed, 95% CI)","0.09 [0.04, 0.23]",Cefixime versus chloramphenicol,6,0.09,0.04,0.23,6,1,,Clinical failure Show forest plot
+6.2 Microbiological failure Show forest plot,1,90,"Risk Ratio (M‐H, Fixed, 95% CI)","0.05 [0.00, 0.84]",Cefixime versus chloramphenicol,6,0.05,0.0,0.84,6,2,,Microbiological failure Show forest plot
+6.3 Time to defervescence Show forest plot,1,90,"Mean Difference (IV, Fixed, 95% CI)","‐2.50 [‐3.23, ‐1.77]",Cefixime versus chloramphenicol,6,-2.5,-3.23,-1.77,6,3,,Time to defervescence Show forest plot
+7.1 Clinical failure Show forest plot,2,81,"Risk Ratio (M‐H, Random, 95% CI)","0.74 [0.10, 5.36]",Cefoperazone versus chloramphenicol,7,0.74,0.1,5.36,7,1,,Clinical failure Show forest plot
+7.2 Relapse Show forest plot,1,55,"Risk Ratio (M‐H, Fixed, 95% CI)","0.52 [0.10, 2.60]",Cefoperazone versus chloramphenicol,7,0.52,0.1,2.6,7,2,,Relapse Show forest plot
+7.3 Time to defervescence Show forest plot,1,21,"Mean Difference (IV, Fixed, 95% CI)","‐2.30 [‐2.89, ‐1.71]",Cefoperazone versus chloramphenicol,7,-2.3,-2.89,-1.71,7,3,,Time to defervescence Show forest plot
+7.4 Convalescent faecal carriage Show forest plot,1,56,"Risk Ratio (M‐H, Fixed, 95% CI)","0.25 [0.03, 2.10]",Cefoperazone versus chloramphenicol,7,0.25,0.03,2.1,7,4,,Convalescent faecal carriage Show forest plot
+8.1 Clinical failure Show forest plot,1,40,"Risk Ratio (M‐H, Fixed, 95% CI)","1.11 [0.07, 16.47]",Cefixime versus cefpodoxime,8,1.11,0.07,16.47,8,1,,Clinical failure Show forest plot
+8.2 Time to defervescence Show forest plot,1,40,"Mean Difference (IV, Fixed, 95% CI)","‐0.60 [‐2.03, 0.83]",Cefixime versus cefpodoxime,8,-0.6,-2.03,0.83,8,2,,Time to defervescence Show forest plot
+9.1 Relapse Show forest plot,1,81,"Risk Ratio (M‐H, Fixed, 95% CI)","0.93 [0.16, 5.26]",Cefixime versus aztreonam,9,0.93,0.16,5.26,9,1,,Relapse Show forest plot
+9.2 Time to defervesence Show forest plot,1,81,"Mean Difference (IV, Fixed, 95% CI)","0.20 [‐0.42, 0.82]",Cefixime versus aztreonam,9,0.2,-0.42,0.82,9,2,,Time to defervesence Show forest plot
+10.1 Relapse Show forest plot,1,74,"Risk Ratio (M‐H, Fixed, 95% CI)","0.72 [0.11, 4.84]",Ceftriaxone versus aztreonam,10,0.72,0.11,4.84,10,1,,Relapse Show forest plot
+10.2 Time to defervesence Show forest plot,1,74,"Mean Difference (IV, Fixed, 95% CI)","‐1.40 [‐2.44, ‐0.36]",Ceftriaxone versus aztreonam,10,-1.4,-2.44,-0.36,10,2,,Time to defervesence Show forest plot
+11.1 Clinical failure Show forest plot,1,57,"Risk Ratio (M‐H, Fixed, 95% CI)","1.93 [0.19, 20.12]",Short versus long course ceftriaxone,11,1.93,0.19,20.12,11,1,,Clinical failure Show forest plot
+11.2 Relapse Show forest plot,1,57,"Risk Ratio (M‐H, Fixed, 95% CI)","8.70 [0.49, 154.49]",Short versus long course ceftriaxone,11,8.7,0.49,154.49,11,2,,Relapse Show forest plot
+11.3 Time to defervescence Show forest plot,1,57,"Mean Difference (IV, Fixed, 95% CI)","0.20 [‐1.46, 1.86]",Short versus long course ceftriaxone,11,0.2,-1.46,1.86,11,3,,Time to defervescence Show forest plot

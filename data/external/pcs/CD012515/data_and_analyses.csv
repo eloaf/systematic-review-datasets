@@ -1,0 +1,4 @@
+Outcome or subgroup title,No. of studies,No. of participants,Statistical method,Effect size,comparison_name,comparison_id,effect_size,lower_ci,upper_ci,outcome_id,subgroup_id,outcome_name,subgroup_name
+1.1 Early stage (0+I+II) diagnosis Show forest plot,3,593,"Risk Ratio (M‐H, Fixed, 95% CI)","1.44 [1.01, 2.06]",Training for CBE versus no training,1,1.44,1.01,2.06,1,1,,Early stage (0+I+II) diagnosis Show forest plot
+1.2 Late stage (III+IV) diagnosis Show forest plot,3,593,"Risk Ratio (M‐H, Random, 95% CI)","0.58 [0.36, 0.94]",Training for CBE versus no training,1,0.58,0.36,0.94,1,2,,Late stage (III+IV) diagnosis Show forest plot
+1.3 Breast cancer mortality Show forest plot,2,355,"Risk Ratio (M‐H, Random, 95% CI)","0.88 [0.24, 3.26]",Training for CBE versus no training,1,0.88,0.24,3.26,1,3,,Breast cancer mortality Show forest plot

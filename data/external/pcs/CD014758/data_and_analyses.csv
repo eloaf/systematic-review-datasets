@@ -1,0 +1,65 @@
+Outcome or subgroup title,No. of studies,No. of participants,Statistical method,Effect size,comparison_name,comparison_id,effect_size,lower_ci,upper_ci,outcome_id,subgroup_id,outcome_name,subgroup_name
+1.1 Change in refractive error from baseline Show forest plot,3,,"Mean Difference (IV, Fixed, 95% CI)",Subtotals only,Undercorrection vs full correction spectacles,1,,,,1,1,,Change in refractive error from baseline Show forest plot
+1.1.1 At 1 year,2,142,"Mean Difference (IV, Fixed, 95% CI)","‐0.15 [‐0.29, ‐0.00]",Undercorrection vs full correction spectacles,1,-0.15,-0.29,-0.0,1,1,,At 1 year
+1.1.2 At 2 years,2,244,"Mean Difference (IV, Fixed, 95% CI)","0.02 [‐0.05, 0.09]",Undercorrection vs full correction spectacles,1,0.02,-0.05,0.09,1,1,,At 2 years
+1.2 Change in axial length from baseline Show forest plot,2,,"Mean Difference (IV, Fixed, 95% CI)",Subtotals only,Undercorrection vs full correction spectacles,1,,,,1,2,,Change in axial length from baseline Show forest plot
+1.2.1 At 1 year,1,94,"Mean Difference (IV, Fixed, 95% CI)","0.05 [‐0.01, 0.11]",Undercorrection vs full correction spectacles,1,0.05,-0.01,0.11,1,2,,At 1 year
+1.2.2 At 2 years,2,244,"Mean Difference (IV, Fixed, 95% CI)","‐0.01 [‐0.06, 0.03]",Undercorrection vs full correction spectacles,1,-0.01,-0.06,0.03,1,2,,At 2 years
+2.1 Change in refractive error from baseline Show forest plot,10,,"Mean Difference (IV, Random, 95% CI)",Subtotals only,Multifocal spectacle lenses vs single vision spectacle lenses,2,,,,2,1,,Change in refractive error from baseline Show forest plot
+2.1.1 At 1 year,9,1463,"Mean Difference (IV, Random, 95% CI)","0.14 [0.08, 0.21]",Multifocal spectacle lenses vs single vision spectacle lenses,2,0.14,0.08,0.21,2,1,,At 1 year
+2.1.2 At 2 years,8,1401,"Mean Difference (IV, Random, 95% CI)","0.19 [0.08, 0.30]",Multifocal spectacle lenses vs single vision spectacle lenses,2,0.19,0.08,0.3,2,1,,At 2 years
+2.1.3 At 3 years,4,835,"Mean Difference (IV, Random, 95% CI)","0.26 [‐0.07, 0.59]",Multifocal spectacle lenses vs single vision spectacle lenses,2,0.26,-0.07,0.59,2,1,,At 3 years
+2.2 Change in axial length from baseline Show forest plot,4,,"Mean Difference (IV, Fixed, 95% CI)",Subtotals only,Multifocal spectacle lenses vs single vision spectacle lenses,2,,,,2,2,,Change in axial length from baseline Show forest plot
+2.2.1 At 1 year,4,896,"Mean Difference (IV, Fixed, 95% CI)","‐0.06 [‐0.09, ‐0.04]",Multifocal spectacle lenses vs single vision spectacle lenses,2,-0.06,-0.09,-0.04,2,2,,At 1 year
+2.2.2 At 2 years,3,699,"Mean Difference (IV, Fixed, 95% CI)","‐0.07 [‐0.12, ‐0.03]",Multifocal spectacle lenses vs single vision spectacle lenses,2,-0.07,-0.12,-0.03,2,2,,At 2 years
+2.2.3 At 3 years,2,558,"Mean Difference (IV, Fixed, 95% CI)","‐0.12 [‐0.18, ‐0.07]",Multifocal spectacle lenses vs single vision spectacle lenses,2,-0.12,-0.18,-0.07,2,2,,At 3 years
+2.3 Change in refractive error following cessation of treatment (1 year) Show forest plot,1,,"Mean Difference (IV, Fixed, 95% CI)",Totals not selected,Multifocal spectacle lenses vs single vision spectacle lenses,2,,,,2,3,,Change in refractive error following cessation of treatment (1 year) Show forest plot
+3.1 Change in refractive error from baseline Show forest plot,6,,"Mean Difference (IV, Random, 95% CI)",Subtotals only,Peripheral plus spectacles vs single vision spectacle lenses,3,,,,3,1,,Change in refractive error from baseline Show forest plot
+3.1.1 At 1 year,5,832,"Mean Difference (IV, Random, 95% CI)","0.51 [0.19, 0.82]",Peripheral plus spectacles vs single vision spectacle lenses,3,0.51,0.19,0.82,3,1,,At 1 year
+3.1.2 At 2 years,2,329,"Mean Difference (IV, Random, 95% CI)","0.34 [‐0.08, 0.76]",Peripheral plus spectacles vs single vision spectacle lenses,3,0.34,-0.08,0.76,3,1,,At 2 years
+3.2 Change in axial length from baseline Show forest plot,4,,"Mean Difference (IV, Random, 95% CI)",Subtotals only,Peripheral plus spectacles vs single vision spectacle lenses,3,,,,3,2,,Change in axial length from baseline Show forest plot
+3.2.1 At 1 year,3,522,"Mean Difference (IV, Random, 95% CI)","‐0.13 [‐0.24, ‐0.03]",Peripheral plus spectacles vs single vision spectacle lenses,3,-0.13,-0.24,-0.03,3,2,,At 1 year
+3.2.2 At 2 years,2,329,"Mean Difference (IV, Random, 95% CI)","‐0.20 [‐0.45, 0.05]",Peripheral plus spectacles vs single vision spectacle lenses,3,-0.2,-0.45,0.05,3,2,,At 2 years
+4.1 Change in refractive error from baseline Show forest plot,8,,"Mean Difference (IV, Random, 95% CI)",Subtotals only,Multifocal soft contact lenses vs single vision soft contact lenses,4,,,,4,1,,Change in refractive error from baseline Show forest plot
+4.1.1 At 1 year,8,1135,"Mean Difference (IV, Random, 95% CI)","0.26 [0.17, 0.35]",Multifocal soft contact lenses vs single vision soft contact lenses,4,0.26,0.17,0.35,4,1,,At 1 year
+4.1.2 At 2 years,5,843,"Mean Difference (IV, Random, 95% CI)","0.30 [0.19, 0.41]",Multifocal soft contact lenses vs single vision soft contact lenses,4,0.3,0.19,0.41,4,1,,At 2 years
+4.1.3 At 3 years,2,395,"Mean Difference (IV, Random, 95% CI)","0.47 [0.13, 0.82]",Multifocal soft contact lenses vs single vision soft contact lenses,4,0.47,0.13,0.82,4,1,,At 3 years
+4.2 Change in axial length from baseline Show forest plot,8,,"Mean Difference (IV, Random, 95% CI)",Subtotals only,Multifocal soft contact lenses vs single vision soft contact lenses,4,,,,4,2,,Change in axial length from baseline Show forest plot
+4.2.1 At 1 year,8,1143,"Mean Difference (IV, Random, 95% CI)","‐0.11 [‐0.13, ‐0.09]",Multifocal soft contact lenses vs single vision soft contact lenses,4,-0.11,-0.13,-0.09,4,2,,At 1 year
+4.2.2 At 2 years,5,843,"Mean Difference (IV, Random, 95% CI)","‐0.15 [‐0.19, ‐0.12]",Multifocal soft contact lenses vs single vision soft contact lenses,4,-0.15,-0.19,-0.12,4,2,,At 2 years
+4.2.3 At 3 years,2,394,"Mean Difference (IV, Random, 95% CI)","‐0.22 [‐0.34, ‐0.10]",Multifocal soft contact lenses vs single vision soft contact lenses,4,-0.22,-0.34,-0.1,4,2,,At 3 years
+4.3 Change in refractive error following cessation of treatment (1 year) Show forest plot,1,,"Mean Difference (IV, Fixed, 95% CI)",Totals not selected,Multifocal soft contact lenses vs single vision soft contact lenses,4,,,,4,3,,Change in refractive error following cessation of treatment (1 year) Show forest plot
+4.4 Change in axial length following cessation of treatment (1 year) Show forest plot,1,,"Mean Difference (IV, Fixed, 95% CI)",Totals not selected,Multifocal soft contact lenses vs single vision soft contact lenses,4,,,,4,4,,Change in axial length following cessation of treatment (1 year) Show forest plot
+5.1 Change in refractive error from baseline Show forest plot,2,,"Mean Difference (IV, Fixed, 95% CI)",Totals not selected,Rigid gas‐permeable lenses vs control,5,,,,5,1,,Change in refractive error from baseline Show forest plot
+5.1.1 At 1 year,2,,"Mean Difference (IV, Fixed, 95% CI)",Totals not selected,Rigid gas‐permeable lenses vs control,5,,,,5,1,,At 1 year
+5.1.2 At 2 years,2,,"Mean Difference (IV, Fixed, 95% CI)",Totals not selected,Rigid gas‐permeable lenses vs control,5,,,,5,1,,At 2 years
+5.1.3 At 3 years,1,,"Mean Difference (IV, Fixed, 95% CI)",Totals not selected,Rigid gas‐permeable lenses vs control,5,,,,5,1,,At 3 years
+5.2 Change in axial length from baseline Show forest plot,2,,"Mean Difference (IV, Fixed, 95% CI)",Subtotals only,Rigid gas‐permeable lenses vs control,5,,,,5,2,,Change in axial length from baseline Show forest plot
+5.2.1 At 1 year,2,415,"Mean Difference (IV, Fixed, 95% CI)","0.02 [‐0.05, 0.10]",Rigid gas‐permeable lenses vs control,5,0.02,-0.05,0.1,5,2,,At 1 year
+5.2.2 At 2 years,2,394,"Mean Difference (IV, Fixed, 95% CI)","0.03 [‐0.05, 0.12]",Rigid gas‐permeable lenses vs control,5,0.03,-0.05,0.12,5,2,,At 2 years
+5.2.3 At 3 years,1,116,"Mean Difference (IV, Fixed, 95% CI)","0.05 [‐0.12, 0.22]",Rigid gas‐permeable lenses vs control,5,0.05,-0.12,0.22,5,2,,At 3 years
+6.1 Change in axial length from baseline Show forest plot,8,,"Mean Difference (IV, Random, 95% CI)",Subtotals only,Orthokeratology lenses vs single vision spectacle lenses lenses,6,,,,6,1,,Change in axial length from baseline Show forest plot
+6.1.1 At 1 year,7,759,"Mean Difference (IV, Random, 95% CI)","‐0.19 [‐0.23, ‐0.15]",Orthokeratology lenses vs single vision spectacle lenses lenses,6,-0.19,-0.23,-0.15,6,1,,At 1 year
+6.1.2 At 2 years,2,106,"Mean Difference (IV, Random, 95% CI)","‐0.28 [‐0.38, ‐0.19]",Orthokeratology lenses vs single vision spectacle lenses lenses,6,-0.28,-0.38,-0.19,6,1,,At 2 years
+7.1 Change in refractive error from baseline (1 year) Show forest plot,9,,"Mean Difference (IV, Random, 95% CI)",Subtotals only,Anti‐muscarinics vs placebo,7,,,,7,1,,Change in refractive error from baseline (1 year) Show forest plot
+7.1.1 Atropine (high dose),3,1072,"Mean Difference (IV, Random, 95% CI)","0.90 [0.62, 1.18]",Anti‐muscarinics vs placebo,7,0.9,0.62,1.18,7,1,,Atropine (high dose)
+7.1.2 Atropine eyedrops (low dose),4,804,"Mean Difference (IV, Random, 95% CI)","0.38 [0.10, 0.66]",Anti‐muscarinics vs placebo,7,0.38,0.1,0.66,7,1,,Atropine eyedrops (low dose)
+7.1.3 Pirenzepine 2% gel,2,326,"Mean Difference (IV, Random, 95% CI)","0.32 [0.15, 0.49]",Anti‐muscarinics vs placebo,7,0.32,0.15,0.49,7,1,,Pirenzepine 2% gel
+7.2 Change in axial length from baseline (1 year) Show forest plot,9,,"Mean Difference (IV, Random, 95% CI)",Subtotals only,Anti‐muscarinics vs placebo,7,,,,7,2,,Change in axial length from baseline (1 year) Show forest plot
+7.2.1 Atropine eyedrops (high dose),3,1072,"Mean Difference (IV, Random, 95% CI)","‐0.33 [‐0.35, ‐0.30]",Anti‐muscarinics vs placebo,7,-0.33,-0.35,-0.3,7,2,,Atropine eyedrops (high dose)
+7.2.2 Atropine eyedrops (low dose),4,804,"Mean Difference (IV, Random, 95% CI)","‐0.13 [‐0.21, ‐0.05]",Anti‐muscarinics vs placebo,7,-0.13,-0.21,-0.05,7,2,,Atropine eyedrops (low dose)
+7.2.3 Pirenzepine 2% gel,2,326,"Mean Difference (IV, Random, 95% CI)","‐0.10 [‐0.18, ‐0.02]",Anti‐muscarinics vs placebo,7,-0.1,-0.18,-0.02,7,2,,Pirenzepine 2% gel
+7.3 Change in refractive error from baseline (2 years) Show forest plot,5,,"Mean Difference (IV, Fixed, 95% CI)",Subtotals only,Anti‐muscarinics vs placebo,7,,,,7,3,,Change in refractive error from baseline (2 years) Show forest plot
+7.3.1 Atropine eyedrops (high dose),2,916,"Mean Difference (IV, Fixed, 95% CI)","1.26 [1.17, 1.36]",Anti‐muscarinics vs placebo,7,1.26,1.17,1.36,7,3,,Atropine eyedrops (high dose)
+7.3.2 Atropine eyedrops (low dose),2,497,"Mean Difference (IV, Fixed, 95% CI)","0.24 [0.17, 0.31]",Anti‐muscarinics vs placebo,7,0.24,0.17,0.31,7,3,,Atropine eyedrops (low dose)
+7.3.3 Pirenzepine eyedrops 2% gel,1,84,"Mean Difference (IV, Fixed, 95% CI)","0.41 [0.13, 0.69]",Anti‐muscarinics vs placebo,7,0.41,0.13,0.69,7,3,,Pirenzepine eyedrops 2% gel
+7.4 Change in axial length from baseline (2 years) Show forest plot,4,,"Mean Difference (IV, Random, 95% CI)",Subtotals only,Anti‐muscarinics vs placebo,7,,,,7,4,,Change in axial length from baseline (2 years) Show forest plot
+7.4.1 Atropine eyedrops (high dose),2,916,"Mean Difference (IV, Random, 95% CI)","‐0.47 [‐0.61, ‐0.34]",Anti‐muscarinics vs placebo,7,-0.47,-0.61,-0.34,7,4,,Atropine eyedrops (high dose)
+7.4.2 Atropine eyedrops (low dose),2,497,"Mean Difference (IV, Random, 95% CI)","‐0.16 [‐0.20, ‐0.12]",Anti‐muscarinics vs placebo,7,-0.16,-0.2,-0.12,7,4,,Atropine eyedrops (low dose)
+7.5 Change in refractive error following cessation of treament (1 year) Show forest plot,2,,"Mean Difference (IV, Fixed, 95% CI)",Totals not selected,Anti‐muscarinics vs placebo,7,,,,7,5,,Change in refractive error following cessation of treament (1 year) Show forest plot
+7.6 Change in axial length following cessation of treatment (1 year) Show forest plot,1,,"Mean Difference (IV, Fixed, 95% CI)",Totals not selected,Anti‐muscarinics vs placebo,7,,,,7,6,,Change in axial length following cessation of treatment (1 year) Show forest plot
+8.1 Change in refractive error from baseline (1 year) Show forest plot,1,77,"Mean Difference (IV, Fixed, 95% CI)","0.07 [‐0.09, 0.24]",7‐methylxanthine vs placebo,8,0.07,-0.09,0.24,8,1,,Change in refractive error from baseline (1 year) Show forest plot
+8.2 Change in axial length from baseline (1 year) Show forest plot,1,77,"Mean Difference (IV, Fixed, 95% CI)","‐0.03 [‐0.10, 0.03]",7‐methylxanthine vs placebo,8,-0.03,-0.1,0.03,8,2,,Change in axial length from baseline (1 year) Show forest plot
+9.1 Change in axial length Show forest plot,3,,"Mean Difference (IV, Fixed, 95% CI)",Subtotals only,Othokeratology plus atropine vs orthokeratology alone,9,,,,9,1,,Change in axial length Show forest plot
+9.1.1 At 1 year,3,172,"Mean Difference (IV, Fixed, 95% CI)","‐0.13 [‐0.16, ‐0.09]",Othokeratology plus atropine vs orthokeratology alone,9,-0.13,-0.16,-0.09,9,1,,At 1 year
+9.1.2 At 2 years,1,73,"Mean Difference (IV, Fixed, 95% CI)","‐0.11 [‐0.21, ‐0.01]",Othokeratology plus atropine vs orthokeratology alone,9,-0.11,-0.21,-0.01,9,1,,At 2 years

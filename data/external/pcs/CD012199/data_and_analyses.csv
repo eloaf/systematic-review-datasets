@@ -1,0 +1,152 @@
+Outcome or subgroup title,No. of studies,No. of participants,Statistical method,Effect size,comparison_name,comparison_id,effect_size,lower_ci,upper_ci,outcome_id,subgroup_id,outcome_name,subgroup_name
+1.1 Any STH prevalence amongst RCTs Show forest plot,14,,"Odds Ratio (IV, Random, 95% CI)","0.86 [0.74, 1.01]",WASH intervention versus control,1,0.86,0.74,1.01,1,1,,Any STH prevalence amongst RCTs Show forest plot
+1.2 Any STH prevalence amongst RCTs ‐ low risk of bias Show forest plot,6,,"Odds Ratio (IV, Random, 95% CI)","0.91 [0.79, 1.05]",WASH intervention versus control,1,0.91,0.79,1.05,1,2,,Any STH prevalence amongst RCTs ‐ low risk of bias Show forest plot
+1.3 Any STH prevalence ‐ ICC Show forest plot,14,,"Odds Ratio (IV, Random, 95% CI)","0.86 [0.74, 1.01]",WASH intervention versus control,1,0.86,0.74,1.01,1,3,,Any STH prevalence ‐ ICC Show forest plot
+1.3.1 Calculated effect estimate using estimated ICC,9,,"Odds Ratio (IV, Random, 95% CI)","0.88 [0.72, 1.08]",WASH intervention versus control,1,0.88,0.72,1.08,1,3,,Calculated effect estimate using estimated ICC
+1.3.2 Calculated effect estimate using reported ICC,1,,"Odds Ratio (IV, Random, 95% CI)","0.93 [0.77, 1.11]",WASH intervention versus control,1,0.93,0.77,1.11,1,3,,Calculated effect estimate using reported ICC
+1.3.3 Study reported cluster‐adjusted effect estimate,4,,"Odds Ratio (IV, Random, 95% CI)","0.79 [0.47, 1.32]",WASH intervention versus control,1,0.79,0.47,1.32,1,3,,Study reported cluster‐adjusted effect estimate
+1.4 Any STH prevalence amongst non‐RCTs Show forest plot,8,,"Odds Ratio (IV, Random, 95% CI)","0.71 [0.54, 0.94]",WASH intervention versus control,1,0.71,0.54,0.94,1,4,,Any STH prevalence amongst non‐RCTs Show forest plot
+1.5 Any STH prevalence ‐ narrow WASH categories amongst non‐RCTs Show forest plot,8,,"Odds Ratio (IV, Random, 95% CI)","0.71 [0.54, 0.94]",WASH intervention versus control,1,0.71,0.54,0.94,1,5,,Any STH prevalence ‐ narrow WASH categories amongst non‐RCTs Show forest plot
+1.5.1 Community water and sanitation,1,,"Odds Ratio (IV, Random, 95% CI)","0.68 [0.42, 1.11]",WASH intervention versus control,1,0.68,0.42,1.11,1,5,,Community water and sanitation
+1.5.2 Community sanitation and hygiene,2,,"Odds Ratio (IV, Random, 95% CI)","0.47 [0.09, 2.41]",WASH intervention versus control,1,0.47,0.09,2.41,1,5,,Community sanitation and hygiene
+"1.5.3 Community water, sanitation, and hygiene",2,,"Odds Ratio (IV, Random, 95% CI)","0.72 [0.47, 1.13]",WASH intervention versus control,1,0.72,0.47,1.13,1,5,,"Community water, sanitation, and hygiene"
+1.5.4 School hygiene,3,,"Odds Ratio (IV, Random, 95% CI)","0.77 [0.46, 1.28]",WASH intervention versus control,1,0.77,0.46,1.28,1,5,,School hygiene
+1.6 Any STH prevalence amongst RCTs (intervention type subgroup) Show forest plot,14,,"Odds Ratio (IV, Random, 95% CI)","0.86 [0.74, 1.01]",WASH intervention versus control,1,0.86,0.74,1.01,1,6,,Any STH prevalence amongst RCTs (intervention type subgroup) Show forest plot
+1.6.1 Primarily education,6,,"Odds Ratio (IV, Random, 95% CI)","0.80 [0.48, 1.31]",WASH intervention versus control,1,0.8,0.48,1.31,1,6,,Primarily education
+1.6.2 Single WASH aspect,3,,"Odds Ratio (IV, Random, 95% CI)","0.87 [0.65, 1.17]",WASH intervention versus control,1,0.87,0.65,1.17,1,6,,Single WASH aspect
+1.6.3 Broad multiple,7,,"Odds Ratio (IV, Random, 95% CI)","0.90 [0.78, 1.05]",WASH intervention versus control,1,0.9,0.78,1.05,1,6,,Broad multiple
+1.7 Any STH prevalence amongst RCTs (age subgroup) Show forest plot,14,,"Odds Ratio (IV, Random, 95% CI)","0.86 [0.74, 1.01]",WASH intervention versus control,1,0.86,0.74,1.01,1,7,,Any STH prevalence amongst RCTs (age subgroup) Show forest plot
+1.7.1 Children,12,,"Odds Ratio (IV, Random, 95% CI)","0.85 [0.72, 1.00]",WASH intervention versus control,1,0.85,0.72,1.0,1,7,,Children
+1.7.2 All ages,2,,"Odds Ratio (IV, Random, 95% CI)","1.00 [0.68, 1.47]",WASH intervention versus control,1,1.0,0.68,1.47,1,7,,All ages
+1.8 Any STH prevalence amongst RCTs (school village subgroup) Show forest plot,14,,"Odds Ratio (IV, Random, 95% CI)","0.86 [0.74, 1.01]",WASH intervention versus control,1,0.86,0.74,1.01,1,8,,Any STH prevalence amongst RCTs (school village subgroup) Show forest plot
+1.8.1 School,7,,"Odds Ratio (IV, Random, 95% CI)","0.82 [0.56, 1.20]",WASH intervention versus control,1,0.82,0.56,1.2,1,8,,School
+1.8.2 Village,7,,"Odds Ratio (IV, Random, 95% CI)","0.88 [0.78, 0.99]",WASH intervention versus control,1,0.88,0.78,0.99,1,8,,Village
+1.9 Any STH prevalence amongst RCTs (MDA subgroup) Show forest plot,14,,"Odds Ratio (IV, Random, 95% CI)","0.86 [0.74, 1.01]",WASH intervention versus control,1,0.86,0.74,1.01,1,9,,Any STH prevalence amongst RCTs (MDA subgroup) Show forest plot
+1.9.1 Underpinned with drug treatment,11,,"Odds Ratio (IV, Random, 95% CI)","0.85 [0.72, 1.00]",WASH intervention versus control,1,0.85,0.72,1.0,1,9,,Underpinned with drug treatment
+1.9.2 No drug treatment,3,,"Odds Ratio (IV, Random, 95% CI)","0.84 [0.46, 1.54]",WASH intervention versus control,1,0.84,0.46,1.54,1,9,,No drug treatment
+1.10 Any STH prevalence amongst RCTs (rural urban subgroup) Show forest plot,13,,"Odds Ratio (IV, Random, 95% CI)","0.87 [0.74, 1.01]",WASH intervention versus control,1,0.87,0.74,1.01,1,10,,Any STH prevalence amongst RCTs (rural urban subgroup) Show forest plot
+1.10.1 Rural,10,,"Odds Ratio (IV, Random, 95% CI)","0.85 [0.73, 1.00]",WASH intervention versus control,1,0.85,0.73,1.0,1,10,,Rural
+1.10.2 Urban,2,,"Odds Ratio (IV, Random, 95% CI)","0.43 [0.06, 3.05]",WASH intervention versus control,1,0.43,0.06,3.05,1,10,,Urban
+1.10.3 Urban and rural,1,,"Odds Ratio (IV, Random, 95% CI)","1.19 [0.74, 1.91]",WASH intervention versus control,1,1.19,0.74,1.91,1,10,,Urban and rural
+1.11 Any STH prevalence amongst RCTs (world region subgroup) Show forest plot,14,,"Odds Ratio (IV, Random, 95% CI)","0.86 [0.74, 1.01]",WASH intervention versus control,1,0.86,0.74,1.01,1,11,,Any STH prevalence amongst RCTs (world region subgroup) Show forest plot
+1.11.1 Africa,8,,"Odds Ratio (IV, Random, 95% CI)","0.83 [0.64, 1.09]",WASH intervention versus control,1,0.83,0.64,1.09,1,11,,Africa
+1.11.2 Asia,5,,"Odds Ratio (IV, Random, 95% CI)","0.87 [0.69, 1.09]",WASH intervention versus control,1,0.87,0.69,1.09,1,11,,Asia
+1.11.3 South America,1,,"Odds Ratio (IV, Random, 95% CI)","1.00 [0.58, 1.72]",WASH intervention versus control,1,1.0,0.58,1.72,1,11,,South America
+1.12 Any STH prevalence ‐ narrow WASH categories amongst RCTs Show forest plot,14,,"Odds Ratio (IV, Random, 95% CI)","0.86 [0.77, 0.97]",WASH intervention versus control,1,0.86,0.77,0.97,1,12,,Any STH prevalence ‐ narrow WASH categories amongst RCTs Show forest plot
+1.12.1 Community water,2,,"Odds Ratio (IV, Random, 95% CI)","0.88 [0.68, 1.14]",WASH intervention versus control,1,0.88,0.68,1.14,1,12,,Community water
+1.12.3 Community sanitation,5,,"Odds Ratio (IV, Random, 95% CI)","0.93 [0.75, 1.14]",WASH intervention versus control,1,0.93,0.75,1.14,1,12,,Community sanitation
+1.12.4 Community hygiene,3,,"Odds Ratio (IV, Random, 95% CI)","0.83 [0.57, 1.19]",WASH intervention versus control,1,0.83,0.57,1.19,1,12,,Community hygiene
+1.12.5 Community sanitation and hygiene,1,,"Odds Ratio (IV, Random, 95% CI)","1.04 [0.41, 2.60]",WASH intervention versus control,1,1.04,0.41,2.6,1,12,,Community sanitation and hygiene
+"1.12.6 Community water, sanitation, and hygiene",2,,"Odds Ratio (IV, Random, 95% CI)","0.78 [0.63, 0.96]",WASH intervention versus control,1,0.78,0.63,0.96,1,12,,"Community water, sanitation, and hygiene"
+1.12.7 School hygiene,4,,"Odds Ratio (IV, Random, 95% CI)","0.69 [0.37, 1.28]",WASH intervention versus control,1,0.69,0.37,1.28,1,12,,School hygiene
+"1.12.8 School water, sanitation, and hygiene",3,,"Odds Ratio (IV, Random, 95% CI)","1.06 [0.82, 1.38]",WASH intervention versus control,1,1.06,0.82,1.38,1,12,,"School water, sanitation, and hygiene"
+1.13 Ascaris lumbricoides prevalence amongst RCTs Show forest plot,12,,"Odds Ratio (IV, Random, 95% CI)","0.87 [0.73, 1.03]",WASH intervention versus control,1,0.87,0.73,1.03,1,13,,Ascaris lumbricoides prevalence amongst RCTs Show forest plot
+1.14 Ascaris lumbricoides prevalence amongst RCTs ‐ low risk of bias studies only Show forest plot,5,,"Odds Ratio (IV, Random, 95% CI)","0.88 [0.78, 1.00]",WASH intervention versus control,1,0.88,0.78,1.0,1,14,,Ascaris lumbricoides prevalence amongst RCTs ‐ low risk of bias studies only Show forest plot
+1.15 Ascaris lumbricoides prevalence amongst non‐RCTs Show forest plot,9,,"Odds Ratio (IV, Random, 95% CI)","0.76 [0.51, 1.15]",WASH intervention versus control,1,0.76,0.51,1.15,1,15,,Ascaris lumbricoides prevalence amongst non‐RCTs Show forest plot
+1.16 Ascaris lumbricoides prevalence ‐ narrow WASH categories amongst non‐RCTs Show forest plot,9,,"Odds Ratio (IV, Random, 95% CI)","0.76 [0.51, 1.15]",WASH intervention versus control,1,0.76,0.51,1.15,1,16,,Ascaris lumbricoides prevalence ‐ narrow WASH categories amongst non‐RCTs Show forest plot
+1.16.1 Community sanitation,1,,"Odds Ratio (IV, Random, 95% CI)","0.45 [0.13, 1.58]",WASH intervention versus control,1,0.45,0.13,1.58,1,16,,Community sanitation
+1.16.2 Community hygiene,3,,"Odds Ratio (IV, Random, 95% CI)","0.93 [0.36, 2.36]",WASH intervention versus control,1,0.93,0.36,2.36,1,16,,Community hygiene
+1.16.3 Community sanitation and hygiene,1,,"Odds Ratio (IV, Random, 95% CI)","0.50 [0.06, 4.00]",WASH intervention versus control,1,0.5,0.06,4.0,1,16,,Community sanitation and hygiene
+"1.16.4 Community water, sanitation, and hygiene",1,,"Odds Ratio (IV, Random, 95% CI)","0.76 [0.42, 1.37]",WASH intervention versus control,1,0.76,0.42,1.37,1,16,,"Community water, sanitation, and hygiene"
+1.16.5 School hygiene,3,,"Odds Ratio (IV, Random, 95% CI)","0.94 [0.36, 2.45]",WASH intervention versus control,1,0.94,0.36,2.45,1,16,,School hygiene
+1.17 Ascaris lumbricoides prevalence amongst RCTs (intervention type subgroup) Show forest plot,12,,"Odds Ratio (IV, Random, 95% CI)","0.87 [0.73, 1.03]",WASH intervention versus control,1,0.87,0.73,1.03,1,17,,Ascaris lumbricoides prevalence amongst RCTs (intervention type subgroup) Show forest plot
+1.17.1 Primarily education,4,,"Odds Ratio (IV, Random, 95% CI)","0.88 [0.37, 2.10]",WASH intervention versus control,1,0.88,0.37,2.1,1,17,,Primarily education
+1.17.2 Single WASH aspect,4,,"Odds Ratio (IV, Random, 95% CI)","0.92 [0.78, 1.09]",WASH intervention versus control,1,0.92,0.78,1.09,1,17,,Single WASH aspect
+1.17.3 Broad multiple,6,,"Odds Ratio (IV, Random, 95% CI)","0.81 [0.64, 1.02]",WASH intervention versus control,1,0.81,0.64,1.02,1,17,,Broad multiple
+1.18 Ascaris lumbricoides prevalence amongst RCTs (age subgroup) Show forest plot,12,,"Odds Ratio (IV, Random, 95% CI)","0.87 [0.73, 1.03]",WASH intervention versus control,1,0.87,0.73,1.03,1,18,,Ascaris lumbricoides prevalence amongst RCTs (age subgroup) Show forest plot
+1.18.1 Children,9,,"Odds Ratio (IV, Random, 95% CI)","0.85 [0.73, 0.99]",WASH intervention versus control,1,0.85,0.73,0.99,1,18,,Children
+1.18.2 All ages,3,,"Odds Ratio (IV, Random, 95% CI)","3.20 [0.92, 11.11]",WASH intervention versus control,1,3.2,0.92,11.11,1,18,,All ages
+1.19 Ascaris lumbricoides prevalence amongst RCTs (school village subgroup) Show forest plot,12,,"Odds Ratio (IV, Random, 95% CI)","0.87 [0.73, 1.03]",WASH intervention versus control,1,0.87,0.73,1.03,1,19,,Ascaris lumbricoides prevalence amongst RCTs (school village subgroup) Show forest plot
+1.19.1 School,4,,"Odds Ratio (IV, Random, 95% CI)","0.68 [0.37, 1.26]",WASH intervention versus control,1,0.68,0.37,1.26,1,19,,School
+1.19.2 Village,8,,"Odds Ratio (IV, Random, 95% CI)","0.89 [0.77, 1.04]",WASH intervention versus control,1,0.89,0.77,1.04,1,19,,Village
+1.20 Ascaris lumbricoides prevalence amongst RCTs (MDA subgroup) Show forest plot,12,,"Odds Ratio (IV, Random, 95% CI)","0.87 [0.73, 1.03]",WASH intervention versus control,1,0.87,0.73,1.03,1,20,,Ascaris lumbricoides prevalence amongst RCTs (MDA subgroup) Show forest plot
+1.20.1 Underpinned with drug treatment,9,,"Odds Ratio (IV, Random, 95% CI)","0.86 [0.71, 1.05]",WASH intervention versus control,1,0.86,0.71,1.05,1,20,,Underpinned with drug treatment
+1.20.2 No drug treatment,3,,"Odds Ratio (IV, Random, 95% CI)","0.91 [0.49, 1.69]",WASH intervention versus control,1,0.91,0.49,1.69,1,20,,No drug treatment
+1.21 Ascaris lumbricoides prevalence amongst RCTs (rural urban subgroup) Show forest plot,12,,"Odds Ratio (IV, Random, 95% CI)","0.87 [0.73, 1.03]",WASH intervention versus control,1,0.87,0.73,1.03,1,21,,Ascaris lumbricoides prevalence amongst RCTs (rural urban subgroup) Show forest plot
+1.21.1 Rural,9,,"Odds Ratio (IV, Random, 95% CI)","0.87 [0.74, 1.03]",WASH intervention versus control,1,0.87,0.74,1.03,1,21,,Rural
+1.21.2 Urban,2,,"Odds Ratio (IV, Random, 95% CI)","0.41 [0.07, 2.51]",WASH intervention versus control,1,0.41,0.07,2.51,1,21,,Urban
+1.21.3 Rural and urban,1,,"Odds Ratio (IV, Random, 95% CI)","1.24 [0.59, 2.61]",WASH intervention versus control,1,1.24,0.59,2.61,1,21,,Rural and urban
+1.22 Ascaris lumbricoides prevalence amongst RCTs (world region subgroup) Show forest plot,12,,"Odds Ratio (IV, Random, 95% CI)","0.87 [0.73, 1.03]",WASH intervention versus control,1,0.87,0.73,1.03,1,22,,Ascaris lumbricoides prevalence amongst RCTs (world region subgroup) Show forest plot
+1.22.1 Africa,6,,"Odds Ratio (IV, Random, 95% CI)","0.73 [0.51, 1.06]",WASH intervention versus control,1,0.73,0.51,1.06,1,22,,Africa
+1.22.2 Asia,5,,"Odds Ratio (IV, Random, 95% CI)","0.98 [0.82, 1.17]",WASH intervention versus control,1,0.98,0.82,1.17,1,22,,Asia
+1.22.3 South America,1,,"Odds Ratio (IV, Random, 95% CI)","0.88 [0.57, 1.36]",WASH intervention versus control,1,0.88,0.57,1.36,1,22,,South America
+1.23 Ascaris lumbricoides prevalence ‐ narrow WASH categories amongst RCTs Show forest plot,12,,"Odds Ratio (IV, Random, 95% CI)","0.89 [0.78, 1.02]",WASH intervention versus control,1,0.89,0.78,1.02,1,23,,Ascaris lumbricoides prevalence ‐ narrow WASH categories amongst RCTs Show forest plot
+1.23.1 Community water,2,,"Odds Ratio (IV, Random, 95% CI)","0.87 [0.67, 1.13]",WASH intervention versus control,1,0.87,0.67,1.13,1,23,,Community water
+1.23.2 Community sanitation,5,,"Odds Ratio (IV, Random, 95% CI)","0.95 [0.75, 1.22]",WASH intervention versus control,1,0.95,0.75,1.22,1,23,,Community sanitation
+1.23.3 Community hygiene,4,,"Odds Ratio (IV, Random, 95% CI)","0.99 [0.77, 1.28]",WASH intervention versus control,1,0.99,0.77,1.28,1,23,,Community hygiene
+"1.23.4 Community water, sanitation, and hygiene",3,,"Odds Ratio (IV, Random, 95% CI)","0.82 [0.61, 1.11]",WASH intervention versus control,1,0.82,0.61,1.11,1,23,,"Community water, sanitation, and hygiene"
+1.23.5 School hygiene,3,,"Odds Ratio (IV, Random, 95% CI)","0.74 [0.34, 1.63]",WASH intervention versus control,1,0.74,0.34,1.63,1,23,,School hygiene
+"1.23.6 School water, sanitation, and hygiene",1,,"Odds Ratio (IV, Random, 95% CI)","0.48 [0.22, 1.05]",WASH intervention versus control,1,0.48,0.22,1.05,1,23,,"School water, sanitation, and hygiene"
+1.24 Trichuris trichiura prevalence amongst RCTs Show forest plot,9,,"Odds Ratio (IV, Random, 95% CI)","0.94 [0.77, 1.14]",WASH intervention versus control,1,0.94,0.77,1.14,1,24,,Trichuris trichiura prevalence amongst RCTs Show forest plot
+1.25 Trichuris trichiura prevalence amongst RCTs ‐ low risk of bias studies only Show forest plot,4,,"Odds Ratio (IV, Random, 95% CI)","0.90 [0.73, 1.11]",WASH intervention versus control,1,0.9,0.73,1.11,1,25,,Trichuris trichiura prevalence amongst RCTs ‐ low risk of bias studies only Show forest plot
+1.26 Trichuris trichiura prevalence amongst non‐RCTs Show forest plot,8,,"Odds Ratio (IV, Random, 95% CI)","0.81 [0.54, 1.20]",WASH intervention versus control,1,0.81,0.54,1.2,1,26,,Trichuris trichiura prevalence amongst non‐RCTs Show forest plot
+1.27 Trichuris trichiura prevalence ‐ narrow WASH categories amongst non‐RCTs Show forest plot,8,,"Odds Ratio (IV, Random, 95% CI)","0.81 [0.54, 1.20]",WASH intervention versus control,1,0.81,0.54,1.2,1,27,,Trichuris trichiura prevalence ‐ narrow WASH categories amongst non‐RCTs Show forest plot
+1.27.1 Community water and sanitation,1,,"Odds Ratio (IV, Random, 95% CI)","3.16 [0.13, 77.87]",WASH intervention versus control,1,3.16,0.13,77.87,1,27,,Community water and sanitation
+1.27.2 Community hygiene,3,,"Odds Ratio (IV, Random, 95% CI)","1.53 [0.68, 3.44]",WASH intervention versus control,1,1.53,0.68,3.44,1,27,,Community hygiene
+1.27.3 Community sanitation and hygiene,1,,"Odds Ratio (IV, Random, 95% CI)","0.48 [0.09, 2.63]",WASH intervention versus control,1,0.48,0.09,2.63,1,27,,Community sanitation and hygiene
+"1.27.4 Community water, sanitation, and hygiene",1,,"Odds Ratio (IV, Random, 95% CI)","0.64 [0.38, 1.06]",WASH intervention versus control,1,0.64,0.38,1.06,1,27,,"Community water, sanitation, and hygiene"
+1.27.5 School hygiene,2,,"Odds Ratio (IV, Random, 95% CI)","0.78 [0.18, 3.41]",WASH intervention versus control,1,0.78,0.18,3.41,1,27,,School hygiene
+1.28 Trichuris trichiura prevalence amongst RCTs (intervention type subgroup) Show forest plot,9,,"Odds Ratio (IV, Random, 95% CI)","0.94 [0.77, 1.14]",WASH intervention versus control,1,0.94,0.77,1.14,1,28,,Trichuris trichiura prevalence amongst RCTs (intervention type subgroup) Show forest plot
+1.28.1 Primarily education,4,,"Odds Ratio (IV, Random, 95% CI)","0.99 [0.75, 1.31]",WASH intervention versus control,1,0.99,0.75,1.31,1,28,,Primarily education
+1.28.2 Single WASH aspect,2,,"Odds Ratio (IV, Random, 95% CI)","0.84 [0.56, 1.28]",WASH intervention versus control,1,0.84,0.56,1.28,1,28,,Single WASH aspect
+1.28.3 Broad multiple,5,,"Odds Ratio (IV, Random, 95% CI)","0.98 [0.55, 1.77]",WASH intervention versus control,1,0.98,0.55,1.77,1,28,,Broad multiple
+1.29 Trichuris trichiura prevalence amongst RCTs (age subgroup) Show forest plot,9,,"Odds Ratio (IV, Random, 95% CI)","0.94 [0.77, 1.14]",WASH intervention versus control,1,0.94,0.77,1.14,1,29,,Trichuris trichiura prevalence amongst RCTs (age subgroup) Show forest plot
+1.29.1 Children,6,,"Odds Ratio (IV, Random, 95% CI)","0.90 [0.73, 1.10]",WASH intervention versus control,1,0.9,0.73,1.1,1,29,,Children
+1.29.2 All ages,3,,"Odds Ratio (IV, Random, 95% CI)","3.23 [1.09, 9.53]",WASH intervention versus control,1,3.23,1.09,9.53,1,29,,All ages
+1.30 Trichuris trichiura prevalence amongst RCTs (school village subgroup) Show forest plot,9,,"Odds Ratio (IV, Random, 95% CI)","0.94 [0.77, 1.15]",WASH intervention versus control,1,0.94,0.77,1.15,1,30,,Trichuris trichiura prevalence amongst RCTs (school village subgroup) Show forest plot
+1.30.1 School,4,,"Odds Ratio (IV, Random, 95% CI)","0.96 [0.74, 1.24]",WASH intervention versus control,1,0.96,0.74,1.24,1,30,,School
+1.30.2 Village,5,,"Odds Ratio (IV, Random, 95% CI)","0.97 [0.64, 1.48]",WASH intervention versus control,1,0.97,0.64,1.48,1,30,,Village
+1.31 Trichuris trichiura prevalence amongst RCTs (MDA subgroup) Show forest plot,9,,"Odds Ratio (IV, Random, 95% CI)","0.94 [0.77, 1.14]",WASH intervention versus control,1,0.94,0.77,1.14,1,31,,Trichuris trichiura prevalence amongst RCTs (MDA subgroup) Show forest plot
+1.31.1 Underpinned with drug treatment,9,,"Odds Ratio (IV, Random, 95% CI)","0.94 [0.77, 1.14]",WASH intervention versus control,1,0.94,0.77,1.14,1,31,,Underpinned with drug treatment
+1.32 Trichuris trichiura prevalence amongst RCTs (rural urban subgroup) Show forest plot,9,,"Odds Ratio (IV, Random, 95% CI)","0.94 [0.77, 1.14]",WASH intervention versus control,1,0.94,0.77,1.14,1,32,,Trichuris trichiura prevalence amongst RCTs (rural urban subgroup) Show forest plot
+1.32.1 Rural,6,,"Odds Ratio (IV, Random, 95% CI)","0.91 [0.67, 1.24]",WASH intervention versus control,1,0.91,0.67,1.24,1,32,,Rural
+1.32.2 Urban,2,,"Odds Ratio (IV, Random, 95% CI)","0.89 [0.63, 1.26]",WASH intervention versus control,1,0.89,0.63,1.26,1,32,,Urban
+1.32.3 Urban and rural,1,,"Odds Ratio (IV, Random, 95% CI)","1.17 [0.73, 1.88]",WASH intervention versus control,1,1.17,0.73,1.88,1,32,,Urban and rural
+1.33 Trichuris trichiura prevalence amongst RCTs (world region subgroup) Show forest plot,9,,"Odds Ratio (IV, Random, 95% CI)","0.94 [0.77, 1.14]",WASH intervention versus control,1,0.94,0.77,1.14,1,33,,Trichuris trichiura prevalence amongst RCTs (world region subgroup) Show forest plot
+1.33.1 Africa,5,,"Odds Ratio (IV, Random, 95% CI)","1.00 [0.72, 1.39]",WASH intervention versus control,1,1.0,0.72,1.39,1,33,,Africa
+1.33.2 Asia,3,,"Odds Ratio (IV, Random, 95% CI)","1.07 [0.59, 1.97]",WASH intervention versus control,1,1.07,0.59,1.97,1,33,,Asia
+1.33.3 South America,1,,"Odds Ratio (IV, Random, 95% CI)","0.88 [0.62, 1.25]",WASH intervention versus control,1,0.88,0.62,1.25,1,33,,South America
+1.34 Trichuris trichiura prevalence ‐ narrow WASH categories amongst RCTs Show forest plot,9,,"Odds Ratio (IV, Random, 95% CI)","0.94 [0.77, 1.14]",WASH intervention versus control,1,0.94,0.77,1.14,1,34,,Trichuris trichiura prevalence ‐ narrow WASH categories amongst RCTs Show forest plot
+1.34.1 Community water,2,,"Odds Ratio (IV, Random, 95% CI)","0.95 [0.52, 1.74]",WASH intervention versus control,1,0.95,0.52,1.74,1,34,,Community water
+1.34.2 Community sanitation,4,,"Odds Ratio (IV, Random, 95% CI)","1.26 [0.48, 3.29]",WASH intervention versus control,1,1.26,0.48,3.29,1,34,,Community sanitation
+1.34.3 Community hygiene,2,,"Odds Ratio (IV, Random, 95% CI)","0.92 [0.50, 1.69]",WASH intervention versus control,1,0.92,0.5,1.69,1,34,,Community hygiene
+"1.34.4 Community water, sanitation, and hygiene",3,,"Odds Ratio (IV, Random, 95% CI)","0.75 [0.40, 1.41]",WASH intervention versus control,1,0.75,0.4,1.41,1,34,,"Community water, sanitation, and hygiene"
+1.34.5 School hygiene,3,,"Odds Ratio (IV, Random, 95% CI)","0.98 [0.74, 1.30]",WASH intervention versus control,1,0.98,0.74,1.3,1,34,,School hygiene
+"1.34.6 School water, sanitation, and hygiene",1,,"Odds Ratio (IV, Random, 95% CI)","0.86 [0.46, 1.61]",WASH intervention versus control,1,0.86,0.46,1.61,1,34,,"School water, sanitation, and hygiene"
+1.35 Hookworm prevalence amongst RCTs Show forest plot,10,,"Odds Ratio (IV, Random, 95% CI)","0.88 [0.75, 1.04]",WASH intervention versus control,1,0.88,0.75,1.04,1,35,,Hookworm prevalence amongst RCTs Show forest plot
+1.36 Hookworm prevalence amongst RCTs ‐ low risk of bias studies only Show forest plot,5,,"Odds Ratio (IV, Random, 95% CI)","0.83 [0.67, 1.03]",WASH intervention versus control,1,0.83,0.67,1.03,1,36,,Hookworm prevalence amongst RCTs ‐ low risk of bias studies only Show forest plot
+1.37 Hookworm prevalence amongst non‐RCTs Show forest plot,8,,"Odds Ratio (IV, Random, 95% CI)","0.75 [0.53, 1.06]",WASH intervention versus control,1,0.75,0.53,1.06,1,37,,Hookworm prevalence amongst non‐RCTs Show forest plot
+1.38 Hookworm prevalence ‐ narrow WASH categories amongst non‐RCTs Show forest plot,8,,"Odds Ratio (IV, Random, 95% CI)","0.75 [0.53, 1.06]",WASH intervention versus control,1,0.75,0.53,1.06,1,38,,Hookworm prevalence ‐ narrow WASH categories amongst non‐RCTs Show forest plot
+1.38.1 Community water and sanitation,1,,"Odds Ratio (IV, Random, 95% CI)","0.66 [0.42, 1.03]",WASH intervention versus control,1,0.66,0.42,1.03,1,38,,Community water and sanitation
+1.38.2 Community sanitation,1,,"Odds Ratio (IV, Random, 95% CI)","0.82 [0.31, 2.16]",WASH intervention versus control,1,0.82,0.31,2.16,1,38,,Community sanitation
+1.38.3 Community hygiene,3,,"Odds Ratio (IV, Random, 95% CI)","1.08 [0.30, 3.87]",WASH intervention versus control,1,1.08,0.3,3.87,1,38,,Community hygiene
+1.38.4 Community sanitation and hygiene,1,,"Odds Ratio (IV, Random, 95% CI)","1.77 [0.25, 12.60]",WASH intervention versus control,1,1.77,0.25,12.6,1,38,,Community sanitation and hygiene
+1.38.5 School hygiene,2,,"Odds Ratio (IV, Random, 95% CI)","0.49 [0.12, 1.99]",WASH intervention versus control,1,0.49,0.12,1.99,1,38,,School hygiene
+1.39 Hookworm prevalence amongst RCTs (intervention type subgroup) Show forest plot,10,,"Odds Ratio (IV, Random, 95% CI)","0.88 [0.75, 1.04]",WASH intervention versus control,1,0.88,0.75,1.04,1,39,,Hookworm prevalence amongst RCTs (intervention type subgroup) Show forest plot
+1.39.1 Primarily education,4,,"Odds Ratio (IV, Random, 95% CI)","1.10 [0.57, 2.12]",WASH intervention versus control,1,1.1,0.57,2.12,1,39,,Primarily education
+1.39.2 Single WASH aspect,3,,"Odds Ratio (IV, Random, 95% CI)","0.90 [0.54, 1.49]",WASH intervention versus control,1,0.9,0.54,1.49,1,39,,Single WASH aspect
+1.39.3 Broad multiple,5,,"Odds Ratio (IV, Random, 95% CI)","0.87 [0.70, 1.08]",WASH intervention versus control,1,0.87,0.7,1.08,1,39,,Broad multiple
+1.40 Hookworm prevalence amongst RCTs (age subgroup) Show forest plot,10,,"Odds Ratio (IV, Random, 95% CI)","0.88 [0.75, 1.04]",WASH intervention versus control,1,0.88,0.75,1.04,1,40,,Hookworm prevalence amongst RCTs (age subgroup) Show forest plot
+1.40.1 Children,7,,"Odds Ratio (IV, Random, 95% CI)","0.87 [0.71, 1.06]",WASH intervention versus control,1,0.87,0.71,1.06,1,40,,Children
+1.40.2 All ages,3,,"Odds Ratio (IV, Random, 95% CI)","0.91 [0.67, 1.24]",WASH intervention versus control,1,0.91,0.67,1.24,1,40,,All ages
+1.41 Hookworm prevalence amongst RCTs (school village subgroup) Show forest plot,10,,"Odds Ratio (IV, Random, 95% CI)","0.88 [0.75, 1.04]",WASH intervention versus control,1,0.88,0.75,1.04,1,41,,Hookworm prevalence amongst RCTs (school village subgroup) Show forest plot
+1.41.1 School,4,,"Odds Ratio (IV, Random, 95% CI)","1.17 [0.74, 1.84]",WASH intervention versus control,1,1.17,0.74,1.84,1,41,,School
+1.41.2 Village,6,,"Odds Ratio (IV, Random, 95% CI)","0.85 [0.71, 1.01]",WASH intervention versus control,1,0.85,0.71,1.01,1,41,,Village
+1.42 Hookworm prevalence amongst RCTs (MDA subgroup) Show forest plot,10,,"Odds Ratio (IV, Random, 95% CI)","0.88 [0.75, 1.04]",WASH intervention versus control,1,0.88,0.75,1.04,1,42,,Hookworm prevalence amongst RCTs (MDA subgroup) Show forest plot
+1.42.1 Underpinned with drug treatment,9,,"Odds Ratio (IV, Random, 95% CI)","0.89 [0.75, 1.05]",WASH intervention versus control,1,0.89,0.75,1.05,1,42,,Underpinned with drug treatment
+1.42.2 No drug treatment,1,,"Odds Ratio (IV, Random, 95% CI)","0.37 [0.07, 1.95]",WASH intervention versus control,1,0.37,0.07,1.95,1,42,,No drug treatment
+1.43 Hookworm prevalence amongst RCTs (rural urban subgroup) Show forest plot,10,,"Odds Ratio (IV, Random, 95% CI)","0.88 [0.75, 1.04]",WASH intervention versus control,1,0.88,0.75,1.04,1,43,,Hookworm prevalence amongst RCTs (rural urban subgroup) Show forest plot
+1.43.1 Rural,7,,"Odds Ratio (IV, Random, 95% CI)","0.88 [0.74, 1.04]",WASH intervention versus control,1,0.88,0.74,1.04,1,43,,Rural
+1.43.2 Urban,2,,"Odds Ratio (IV, Random, 95% CI)","1.10 [0.51, 2.37]",WASH intervention versus control,1,1.1,0.51,2.37,1,43,,Urban
+1.43.3 Urban and rural,1,,"Odds Ratio (IV, Random, 95% CI)","0.48 [0.04, 5.41]",WASH intervention versus control,1,0.48,0.04,5.41,1,43,,Urban and rural
+1.44 Hookworm prevalence amongst RCTs (world region subgroup) Show forest plot,10,,"Odds Ratio (IV, Random, 95% CI)","0.88 [0.75, 1.04]",WASH intervention versus control,1,0.88,0.75,1.04,1,44,,Hookworm prevalence amongst RCTs (world region subgroup) Show forest plot
+1.44.1 Africa,6,,"Odds Ratio (IV, Random, 95% CI)","1.11 [0.80, 1.53]",WASH intervention versus control,1,1.11,0.8,1.53,1,44,,Africa
+1.44.2 Asia,3,,"Odds Ratio (IV, Random, 95% CI)","0.80 [0.65, 0.98]",WASH intervention versus control,1,0.8,0.65,0.98,1,44,,Asia
+1.44.3 South America,1,,"Odds Ratio (IV, Random, 95% CI)","1.13 [0.51, 2.50]",WASH intervention versus control,1,1.13,0.51,2.5,1,44,,South America
+1.45 Hookworm prevalence ‐ narrow WASH categories amongst RCTs Show forest plot,10,,"Odds Ratio (IV, Random, 95% CI)","0.89 [0.75, 1.04]",WASH intervention versus control,1,0.89,0.75,1.04,1,45,,Hookworm prevalence ‐ narrow WASH categories amongst RCTs Show forest plot
+1.45.1 Community water,2,,"Odds Ratio (IV, Random, 95% CI)","0.84 [0.46, 1.51]",WASH intervention versus control,1,0.84,0.46,1.51,1,45,,Community water
+1.45.2 Community sanitation,4,,"Odds Ratio (IV, Random, 95% CI)","0.88 [0.69, 1.13]",WASH intervention versus control,1,0.88,0.69,1.13,1,45,,Community sanitation
+1.45.3 Community hygiene,3,,"Odds Ratio (IV, Random, 95% CI)","0.98 [0.59, 1.64]",WASH intervention versus control,1,0.98,0.59,1.64,1,45,,Community hygiene
+"1.45.4 Community water, sanitation, and hygiene",3,,"Odds Ratio (IV, Random, 95% CI)","0.70 [0.46, 1.08]",WASH intervention versus control,1,0.7,0.46,1.08,1,45,,"Community water, sanitation, and hygiene"
+1.45.5 School hygiene,3,,"Odds Ratio (IV, Random, 95% CI)","1.02 [0.49, 2.12]",WASH intervention versus control,1,1.02,0.49,2.12,1,45,,School hygiene
+"1.45.6 School water, sanitation, and hygiene",1,,"Odds Ratio (IV, Random, 95% CI)","1.27 [0.71, 2.27]",WASH intervention versus control,1,1.27,0.71,2.27,1,45,,"School water, sanitation, and hygiene"
